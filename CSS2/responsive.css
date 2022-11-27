@@ -1,0 +1,6009 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+@media only screen and (min-width: 1600px) and (max-width: 1900px) {
+    .v-center {
+        width: 8%;
+    }
+}
+
+@media only screen and (min-width: 1401px) and (max-width: 1920px) {
+    .wsmenu-list li:hover>.megamenu {
+        transform: rotateX(0deg);
+        -o-transform: rotateX(0deg);
+        -moz-transform: rotateX(0deg);
+        -webkit-transform: rotateX(0deg);
+        opacity: 1;
+        visibility: visible;
+    }
+    .ourservice:before {
+        width: 33%;
+    }
+}
+
+@media(max-width: 1600px) {
+    .where-infigic:before {
+        height: 555px;
+        width: 21px;
+    }
+    .marijuana-delivery:before {
+        height: 499px;
+        width: 458px;
+    }
+    .carwash:before {
+        width: 680px;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1566px) {
+    .marijuana-delivery:before {
+        width: 444px;
+    }
+    .where-infigic:before {
+        width: 500px;
+    }
+    /****************************************************************************/
+    .ourservice:before {
+        width: 33%;
+    }
+    .v-center {
+        width: 10%;
+    }
+    .home-banner .img-box img {
+        width: 123%;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 26px;
+        width: 78%;
+        height: 268px;
+        left: 128px;
+    }
+    .home-banner .img-bg img {
+        width: 788px;
+    }
+    .carwash:before {
+        width: 555px;
+    }
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1399px) {
+    .marijuana-delivery:before {
+        width: 290px;
+    }
+    .where-infigic:before {
+        height: 488px;
+        width: 388px;
+    }
+    .modal-call.right.fade.in .modal-dialog {
+        right: 0;
+        top: 48%;
+    }
+    /********************************************************************************/
+    .ourservice:before {
+        width: 33%;
+    }
+    .v-center {
+        width: 12%;
+    }
+    .whatsapp-chat .v-center {
+        width: 6%;
+    }
+    .home-banner .img-box img {
+        width: 120%;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 25px;
+        width: 76%;
+        height: 260px;
+        left: 126px;
+    }
+    .home-banner .img-bg img {
+        width: 775px;
+    }
+    .pos_benefits_section:before {
+        width: 600px;
+        height: 470px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+    .marijuana-delivery:before {
+        height: 480px;
+        width: 296px;
+    }
+    .where-infigic:before {
+        height: 452px;
+        width: 355px;
+    }
+    /*******************************************************************************/
+    .ourservice:before {
+        width: 33%;
+    }
+    .v-center {
+        width: 13%;
+    }
+    .home-banner .img-box img {
+        width: 100%;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 19px;
+        width: 64%;
+        height: 219px;
+        left: 106px;
+    }
+    .home-banner .img-bg img {
+        width: 675px;
+    }
+    .carwash:before {
+        width: 555px;
+    }
+    .pos_benefits_section:before {
+        width: 600px;
+        height: 470px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .whatsapp-chat .v-center {
+        width: 7%;
+    }
+    .serives-android-app .caree-box {
+        height: 560px;
+    }
+    .java-development-banner {
+        height: 315px;
+    }
+    .pos_benefits_section:before {
+        width: 600px;
+        height: 470px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .single-testimonial-item .pic {
+        width: 75px;
+        height: 73px;
+        border-radius: 100%;
+    }
+    .single-testimonial-item:after {
+        left: 120px;
+    }
+    .img--projects img {
+        width: 60%;
+    }
+    .sealog-box-content {
+        position: relative;
+        left: 22px;
+    }
+    .Swag-box-content {
+        position: relative;
+        left: 22px;
+    }
+    .Pyramid-box-content {
+        position: relative;
+        left: 22px;
+    }
+    .rummy-box-content {
+        position: relative;
+        left: 22px;
+    }
+    /**************update css*************/
+    .react-development .icon-contant-box {
+        height: 360px;
+    }
+    .our-latest-work .item1 .our-latest-work-box-contant {
+        padding: 50px 0 0 0;
+    }
+    .our-latest-work .item2 .our-latest-work-box-contant {
+        padding: 50px 0 0 0;
+    }
+    .our-latest-work .item3 .our-latest-work-box-contant {
+        padding: 50px 0 0 0;
+    }
+    .our-latest-work .item4 .our-latest-work-box-contant {
+        padding: 50px 0 0 0;
+    }
+    .Costomer-app-feature .img-box img {
+        width: 75%;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 90%;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 14%;
+        top: 30%;
+    }
+    .Costomer-app-feature .contant-box .icon-contant-box {
+        height: 150px;
+    }
+    .grocery-driver-app .icon-contant-box {
+        height: 225px;
+    }
+    .blog .blog-box .blog-contant-box h4 {
+        color: #000;
+        transition: color .2s ease-out;
+        padding: 15px 0px;
+        line-height: 21px;
+    }
+    .pricing-tab-td {
+        position: relative;
+        left: 150px;
+    }
+    .pricing-tab-ul {
+        width: 64%;
+        margin: 0 auto;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        left: 12%;
+        top: 14%;
+    }
+    .update-img {
+        width: 60% !important;
+    }
+    .marijuana-delivery:before {
+        height: 383px;
+        width: 380px;
+    }
+    .food-ordering .food-banner .contant h1 {
+        font-size: 42px;
+        line-height: 48px;
+    }
+    .food-ordering .food-banner .contant p {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    .logistic-banner .logistic-contant p {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    .cannibis-banner .contant-box h1 {
+        font-size: 42px;
+        line-height: 48px;
+    }
+    .cannibis-banner .contant-box p {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    .where-infigic:before {
+        height: 488px;
+        width: 389px;
+    }
+    /*********uptade css***************/
+    .food-ordering .food-banner {
+        margin-bottom: 170px;
+        height: 507px;
+    }
+    .p-right {
+        padding-right: 22px;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        height: 374px !important;
+        padding-top: 40px;
+    }
+    .panel-default>.panel-heading a {
+        padding: 10px 4px;
+        font-size: 13px;
+    }
+    .logistic-banner .logistic-contant h1 {
+        color: #f05080;
+        font-size: 42px;
+        line-height: 48px;
+    }
+    .logistic-banner .logistic-contant {
+        margin-top: 0px;
+    }
+    .custom-food-delivery .img-box img {
+        width: 60%;
+    }
+    .custom-food-delivery .Supercharge-img-box img {
+        width: 60%;
+    }
+    /*********uptade end css***************/
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        right: 31%;
+    }
+    .span-right {
+        right: 26% !important;
+    }
+    .v-center {
+        width: 15%;
+    }
+    .ios-mobile-services .ios-mobile-services-box .contant-box .contant-box1 {
+        margin-top: 40px;
+        text-align: right;
+    }
+    .ios-mobile-services .ios-mobile-services-box .contant-box .contant-box2 {
+        margin-top: 40px;
+        text-align: left;
+    }
+    .ios-mobile-services h4:before {
+        left: 42%;
+    }
+    .android-echnology h4:before {
+        left: 42%;
+    }
+    .iphon-app .iphon-app-box .services-box h4:before {
+        left: 43%;
+    }
+    .iPhone-services .Maintenance-services-box .Maintenance-box {
+        padding: 15px 10px;
+    }
+    .iPhone-services .Maintenance-services-box {
+        margin: 23px 0 0 0;
+    }
+    .web-Application-services .contant-box {
+        padding: 0 0px 0 0;
+        margin-top: 95px;
+    }
+    .weare-contant {
+        margin-top: 0px;
+    }
+    .wsmenu {
+        width: 72% !important;
+    }
+    .web-contant {
+        width: 61% !important;
+    }
+    .about-us .about-us-banner .about-us-box {
+        margin: 25px 0 0 0;
+    }
+    .why-choose-us h4::before {
+        left: 45%;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box {
+        margin: 25px 0;
+    }
+    .portfolio-banner {
+        height: 430px;
+    }
+    .portfolio-banner .portfolio-banner-box {
+        text-align: center;
+        padding: 100px 0 0 0;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text {
+        padding-top: 20px;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .img-box {
+        text-align: right;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .container-text {
+        padding-top: 60px;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .img-box {
+        padding-top: 0px;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .container-text {
+        padding-top: 60px;
+    }
+    .iphon-app .img-box2 {
+        position: absolute;
+        left: 0%;
+        top: 2%;
+    }
+    .iphon-app .iphon-app-box {
+        text-align: center;
+    }
+    .angular-contant h5 {
+        text-align: left;
+    }
+    .angular-development-box .angular-contant-right {
+        padding-top: 45px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        width: 48%;
+    }
+    /*******create responsive for sunil***********/
+    .case-studies-banner {
+        height: 430px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 61%;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        padding: 7px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 337px;
+    }
+    .serives-android-app .caree-box {
+        height: 430px;
+    }
+    .java-development-banner {
+        height: 430px;
+    }
+    .digital-marketing {
+        margin: 50px 0px;
+    }
+    .contact-outer {
+        padding: 42px 0px;
+        margin: 30px 15px;
+    }
+    .digital-marketing p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    img.card-img-top {
+        width: 100%;
+    }
+    .card {
+        height: 650px;
+    }
+    .home-banner .img-box img {
+        width: 100%;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 15px;
+        width: 63%;
+        height: 182px;
+        left: 90px;
+    }
+    .home-banner .img-bg img {
+        width: 640px;
+    }
+    .home-banner .home-banner-contant h1 {
+        color: #e74d87;
+        font-size: 46px;
+        font-weight: bold;
+    }
+    .home-banner .home-banner-contant p {
+        font-size: 14px;
+        margin-top: 20px;
+        color: #454545;
+    }
+    .home-banner .home-banner-contant .btn-box {
+        margin-top: 30px;
+    }
+    .ourservice .ourservice-contant-box .img-box img {
+        width: 38%;
+    }
+    .ourservice:before {
+        content: "";
+        background: #f8f8fa;
+        width: 34%;
+        height: 480px;
+        position: absolute;
+        margin-top: 23px;
+        right: 0;
+    }
+    .our-latest-work:before {
+        content: "";
+        height: 390px;
+    }
+    .ourservice .ourservice-contant-box .img-box {
+        text-align: center;
+        padding: 15px 0;
+    }
+    .blog .blog-box .blog-contant-box .btn-box {
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .blog .blog-box .blog-contant-box {
+        box-shadow: 1px 4px 12px 0px #e2e2e2;
+        height: 475px;
+    }
+    .home-banner .home-banner-contant {
+        margin-top: 0px;
+    }
+    .read-more-btn {
+        position: absolute;
+        top: 100%;
+        left: 28%;
+    }
+    .Mobile-Application-services .contant-box p {
+        line-height: 21px;
+        padding-top: 0px;
+    }
+    .Mobile-Application-services .contant-box h5 {
+        color: #747679;
+        font-size: 14px;
+    }
+    .web-Application-services:before {
+        height: 465px;
+    }
+    .web-technolocies .logo-box h2 {
+        color: #8c95a1;
+        font-size: 18px;
+    }
+    .carwash:before {
+        width: 500px;
+        height: 400px;
+    }
+    .flashwas-tabs-box .nav-ul {
+        width: 100%;
+    }
+    .pos_benefits_section:before {
+        width: 490px;
+        height: 380px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .item .item-box h4 .span {
+        color: #3585ff;
+        font-size: 35px;
+        font-weight: bold;
+    }
+    .item .item-box .item-btn {
+        margin-top: 12px;
+    }
+    .web-contant {
+        float: right;
+        margin-left: 0px;
+        padding-top: 0px;
+        width: 71% !important;
+    }
+    .web-design {
+        background: #9b3eff;
+        float: left;
+        border-radius: 100%;
+        padding: 15px 15px;
+        margin-bottom: 80px;
+        width: 26%;
+    }
+    .icon-images {
+        padding: 7px 8 px;
+        border-radius: 100%;
+        border: 3px solid #fff;
+    }
+    .our-exp {
+        height: 1246px;
+    }
+    footer .footer-bg {}
+    .carousel-control.left {
+        background-image: none !important;
+        display: none;
+    }
+    .carousel-control.right {
+        background-image: none !important;
+        display: none;
+    }
+    .bottomborder {
+        margin-bottom: 18px;
+    }
+    p.we-serve {
+        padding-bottom: 12px;
+    }
+    .trans-box {
+        height: 215px;
+    }
+    /**************create by sunil**************/
+    section#wehire {
+        margin-top: 5px;
+    }
+    .digital-marketing {
+        margin: 16px 0px;
+    }
+    .hire-border {
+        margin-bottom: 13px;
+    }
+    section#wehire {
+        margin-bottom: 18px;
+    }
+    .our-latest-work .item .our-latest-work-box-contant {
+        padding: 55px 0 0 0;
+    }
+    .carwash:before {
+        width: 380px;
+        height: 355px;
+    }
+    .carwash .carwash_box .contant_box {
+        padding: 100px 56px 0px 20px;
+    }
+}
+
+@media (max-width: 991px) {
+    .poker-game .poker-banner .poker-contant .contant p {
+        color: #fff;
+        font-size: 18px;
+        font-weight: 400;
+        padding-right: 0px;
+    }
+    .poker-game .poker-banner .poker-contant {
+        text-align: center;
+        padding: 0px 0;
+    }
+    .poker-game .poker-banner {
+        padding-top: 10px;
+    }
+    .poker-game .poker-banner .poker-contant .contant {
+        margin-bottom: 25px;
+    }
+    /***********poker css**********/
+    .sealog-box-content {
+        position: relative;
+        left: 0px;
+    }
+    .Swag-box-content {
+        position: relative;
+        left: 0px;
+    }
+    .Pyramid-box-content {
+        position: relative;
+        left: 0px;
+    }
+    .rummy-box-content {
+        position: relative;
+        left: 0px;
+    }
+    .sealog-box-content .headingtext {
+        font-size: 30px;
+    }
+    .Pyramid-box-content .headingtext {
+        font-size: 30px;
+    }
+    .rummy-box-content .headingtext {
+        font-size: 30px;
+    }
+    .Swag-box-content .headingtext {
+        font-size: 30px;
+    }
+    .sabheading {
+        font-size: 18px;
+    }
+    .content-boxx {
+        font-size: 14px;
+        line-height: 21px;
+        color: #738b9f;
+        padding-right: 20px;
+    }
+    /******************/
+    .heading:before {
+        content: '';
+        position: absolute;
+        display: block;
+        width: 70px;
+        height: 5px;
+        background-image: linear-gradient(to right, #df4b8e, #9538c8);
+        top: -20px;
+        left: calc(52% - 38px);
+    }
+    .ReactJS-development .contant-box {
+        padding: 0 0px 0 0;
+    }
+    .ReactJS-development {
+        text-align: -webkit-center;
+    }
+    .ReactJS-development .contant-box h1 {
+        font-size: 21px;
+    }
+    .ReactJS-development .img-box img {
+        width: 60%;
+        margin: 20px 0;
+    }
+    .heading {
+        font-size: 21px;
+    }
+    .color-gary {
+        line-height: 21px;
+        font-size: 14px !important;
+    }
+    .p-div {
+        font-size: 14px;
+        color: #656565;
+        font-weight: 400;
+        line-height: 21px;
+    }
+    .react-development .icon-contant-box {
+        height: 285px;
+    }
+    .react-our-services .icon-contant-box {
+        margin: 15px 0;
+        height: 225px;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+        padding: 15px;
+    }
+    /*******************grocery-page start***********************/
+    .testimonial:before {
+        content: "";
+        border-left: 4px solid #fff;
+        position: absolute;
+        height: 208px;
+        width: 5px;
+        left: 0px;
+        bottom: -38px;
+    }
+    .testimonial:after {
+        content: "";
+        border-left: 4px solid #fff;
+        position: absolute;
+        height: 4px;
+        width: 220px;
+        background: #fff;
+        left: 0px;
+        bottom: -40px;
+    }
+    .testimonial .testimonial-box p {
+        margin-top: 0px;
+    }
+    .testimonial h3 {
+        font-size: 14px;
+        line-height: 21px;
+        margin-top: 40px;
+    }
+    .why-work-kpis .why-work-kpis-box .our-latest-border {
+        width: 10%;
+    }
+    .copyright-kpis .copyright-text {
+        text-align: center;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .div-align {
+        text-align: center;
+    }
+    .grocery-restaurant-managment .contant-box {
+        box-shadow: 0px 3px 7px 1px #d8d8d8;
+        border-radius: 10px;
+        background: #fff;
+        padding: 10px 0;
+        margin: 15px 0;
+        height: 155px;
+    }
+    .grocery-driver-app .our-latest-border {
+        width: 6%;
+    }
+    .Costomer-app-feature .our-latest-border {
+        width: 6%;
+    }
+    .grocery-restaurant-managment .our-latest-border {
+        width: 6%;
+    }
+    .grocery-banner h1 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .Costomer-app-feature .img-box img {
+        width: 100%;
+    }
+    .grocery-height {
+        height: 100PX;
+    }
+    .Costomer-app-feature .contant-box .icon-contant-box .icon-box {
+        width: 55px;
+        height: 55px;
+    }
+    .grocery-driver-app .icon-contant-box .contant-box {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .grocery-display-none {
+        display: block;
+    }
+    .grocery-display-block {
+        display: none;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 50%;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        width: 500px;
+        height: 500px;
+        left: 27%;
+        top: 30%;
+    }
+    .grocery-restaurant-managment .Store-img-box {
+        position: inherit;
+    }
+    .grocery-restaurant-managment .Store-img-box img {
+        width: 100%;
+    }
+    /*******************grocery-page end***********************/
+    /*******************Restaurant-page start***********************/
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .container-text {
+        padding-top: 45px;
+    }
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .container-text h3 {
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .container-text h3 {
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .container-text {
+        padding-top: 45px;
+    }
+    .our-latest-work .our-latest-work-box .carousel-control.left {
+        display: block;
+        bottom: 0;
+        top: auto;
+        left: 35%;
+        bottom: 20px;
+    }
+    .our-latest-work .our-latest-work-box .carousel-control.right {
+        display: block;
+        bottom: 0;
+        top: auto;
+        right: 35%;
+        bottom: 20px;
+    }
+    .p-t-90 {
+        padding-top: 0px;
+    }
+    .Restaurant-banner h1 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .why-kpis h4 {
+        font-size: 21px;
+    }
+    .Boost-your-restaurant .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        left: 34%;
+    }
+    .Boost-your-restaurant .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 36%;
+    }
+    .why-kpis .contant-box .icon-contant-box .icon-box {
+        width: 55px;
+        height: 55px;
+    }
+    .why-kpis .contant-box .icon-contant-box .icon-box img {
+        width: 40px;
+        height: 40px;
+        object-fit: scale-down;
+    }
+    .Restaurant-management h4 {
+        font-size: 21px;
+    }
+    .Comprehensive-Restaurant h4 {
+        font-size: 21px;
+    }
+    .Boost-your-restaurant h4 {
+        font-size: 21px;
+    }
+    .Customised-Restaurant-Management h4 {
+        font-size: 21px;
+    }
+    .Customised-Restaurant-Management .our-latest-border {
+        width: 6%;
+    }
+    .Boost-your-restaurant .our-latest-border {
+        width: 6%;
+    }
+    .Comprehensive-Restaurant .our-latest-border {
+        width: 6%;
+    }
+    .Restaurant-management .our-latest-border {
+        width: 6%;
+    }
+    /*******************Restaurant-page end***********************/
+    .Startup-waper .Startup-waper-box {
+        text-align: center;
+        margin: 25px 0;
+    }
+    .Startup-Online-Ordering .Online-Ordering-box h1 {
+        font-size: 28px;
+    }
+    .Startup-Online-Ordering .Online-Ordering-box h2 {
+        font-size: 18px;
+    }
+    .Startup-waper .iner-waper .questions h2 {
+        font-size: 18px;
+        font-weight: 300;
+        color: #fff;
+    }
+    .pricing-tab-td {
+        position: relative;
+        left: 112px;
+    }
+    .pricing-tab-ul {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        position: absolute;
+        width: 400px;
+        height: 400px;
+        left: 18%;
+        top: 23%;
+    }
+    .update-h4 {
+        font-size: 28px !important;
+        line-height: 34px !important;
+    }
+    .rummy {
+        text-align: -webkit-center;
+    }
+    .rummy .rummy-banner {
+        padding: 10px 0;
+    }
+    .rummy .rummy-banner .rummy-contant .contant {
+        margin-bottom: 40px;
+    }
+    .cannibis-banner .contant-box {
+        margin-top: 70px;
+    }
+    .Customer-contant-text {
+        padding: 20px 20px;
+    }
+    .marijuana-delivery .contant-box {
+        padding-right: 0px;
+        margin-top: 0px;
+    }
+    .cannibis-banner .contant-box h1 {
+        color: #fff;
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .cannibis-banner {
+        padding: 30px 0;
+    }
+    .cannibis-banner .contant-box p {
+        margin-top: 15px;
+    }
+    .cannibis-banner .contant-box .btn-box {
+        margin-top: 15px;
+    }
+    .where-infigic .img-box img {
+        width: 100%;
+    }
+    .marijuana-delivery .img-box img {
+        width: 100%;
+    }
+    .where-infigic .contant-box {
+        height: 190px;
+    }
+    .where-infigic:before {
+        height: 435px;
+        width: 361px;
+        top: 21px;
+    }
+    .where-infigic .img-box {
+        padding-top: 55px;
+    }
+    .marijuana-delivery .contant-box p {
+        font-size: 14px;
+        color: #656565;
+        font-weight: 400;
+    }
+    .food-tabs-box .heading-box h4 {
+        font-size: 21px;
+        text-transform: uppercase;
+        line-height: 28px;
+    }
+    .Cannabis-app h4 {
+        font-size: 21px;
+    }
+    .cannibis-banner .contant-box p {
+        font-size: 14px;
+    }
+    /*********uptade css***************/
+    .whatsapp-chat .v-center {
+        width: 9%;
+    }
+    .register-heading {
+        padding-top: 12px;
+    }
+    .register-right {
+        background: #f8f9fa;
+        border-top-left-radius: 0% 50%;
+        border-bottom-left-radius: 0% 50%;
+    }
+    .food-ordering .food-banner .contant h1 {
+        color: #fff;
+        font-size: 28px;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 170px;
+        height: 420px;
+    }
+    .our-technoloy .contant-service .img-box {
+        width: 100px;
+        padding: 20px 0px 15px 0px;
+        border-radius: 60px 60px 60px 0px;
+        margin-bottom: 30px;
+    }
+    .client-say-div-box .owl-wrapper-outer {
+        height: 340px;
+    }
+    .testimonial .testimonial-box {
+        height: 280px;
+    }
+    .testimonial .testimonial-box .pic {
+        left: 101px;
+        width: 75px;
+        height: 72px;
+        border-radius: 50%;
+        overflow: hidden;
+        right: 0;
+        position: absolute;
+        top: -18px;
+    }
+    .testimonial {
+        margin: 0px 15px 15px;
+    }
+    .logistic-slider .logistic-slider-box .contant-box h4 {
+        font-size: 14px !important;
+    }
+    .review-block-description {
+        font-size: 14px;
+    }
+    .custom-softwere-develoment-box h4 {
+        font-size: 21px;
+    }
+    .logistic-slider .logistic-slider-box h4 {
+        font-size: 21px;
+    }
+    .img-width90 {
+        margin-top: 26px;
+    }
+    .img-width90 img {
+        width: 100% !important;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        height: 344px !important;
+        padding-top: 22px;
+    }
+    .pull-leftwith {
+        width: 228px;
+    }
+    .logistic-banner .logistic-contant h1 {
+        color: #f05080;
+        font-size: 39px;
+        line-height: 40px;
+    }
+    .logistic-accoding .accoding-box h4 {
+        font-size: 21px;
+        line-height: 34px;
+    }
+    .food-ordering-box h4 {
+        font-size: 21px;
+    }
+    p {
+        font-size: 14px !important;
+        line-height: 18px;
+    }
+    .web-Application-tab .tab-box p {
+        font-size: 14px;
+    }
+    .iot-banner-medal .iot-banner-medal-serives .iot-serives-box h5 {
+        font-size: 14px;
+    }
+    .iphon-app .iphon-app-box .link-box .link-contant .link-contant-left li a {
+        font-size: 14px;
+    }
+    .Mobile-Application-services .contant-box h1 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+    .mobile-defvelopment-services h4 {
+        font-size: 21px;
+        line-height: 35px;
+        text-transform: uppercase;
+    }
+    .tab-content>.tab-pane .contant-box p {
+        font-size: 14px;
+    }
+    .web-technolocies p {
+        font-size: 14px;
+    }
+    .custom-softwere-wht-choose .heading-box h5 {
+        font-size: 14px;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box h5 {
+        font-size: 14px;
+    }
+    .our-technoloy .contant-service p {
+        font-size: 14px;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome p {
+        font-size: 14px;
+    }
+    .why-choose-us .why-choose-us-box .contant-box-welcome p {
+        font-size: 14px;
+    }
+    .custom-softwere-develoment-box .contant-box h5 {
+        font-size: 14px;
+    }
+    .custom-softwere-develoment-box .contant-box h1 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+    .android-echnology h4 {
+        font-size: 21px;
+    }
+    .features-outer h4 {
+        font-size: 21px;
+    }
+    .android-echnology .android-echnology-mox .img-box {
+        margin-top: 25px;
+    }
+    .web-and-eCommerce .eCommerce-box {
+        margin-top: 0px;
+    }
+    .web-and-eCommerce .eCommerce-box h1 {
+        font-size: 21px;
+    }
+    .ecommerce-development-solution h4 {
+        font-size: 21px;
+    }
+    .ecommerce-our-services h4 {
+        font-size: 21px;
+    }
+    .technology-and-solution h4 {
+        font-size: 21px;
+    }
+    .custom-food-delivery .contant-box {
+        padding-right: 0px;
+        margin-top: 30px;
+    }
+    .custom-food-delivery .Supercharge-contant-box {
+        padding-left: 0px;
+        margin-top: 30px;
+    }
+    .food-tabs-box .card .tab-content .contant-box {
+        margin-top: 0px;
+    }
+    .interested-in-launching .img-box img {
+        width: 60%;
+    }
+    .interested-in-launching .contant-box {
+        margin-top: 30px;
+    }
+    .heading-border-top h4 {
+        font-size: 21px;
+    }
+    .key-benefits h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .explore-our-other-app h4 {
+        font-size: 21px;
+    }
+    .key-benefits .service-box {
+        height: 330px;
+    }
+    .tab-content>.tab-pane .logo-box {
+        width: 25%;
+    }
+    .food-tabs-box .card .tab-content .service-box {
+        height: 325px;
+    }
+    /*********uptade end css***************/
+    .span-right {
+        right: 22% !important;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        right: 30%;
+    }
+    .btn-fixed {
+        font-size: 14px;
+    }
+    .v-center {
+        width: 17%;
+    }
+    .heading-border-top1 .our-latest-border-top {
+        width: 18%;
+    }
+    .heading-border-top h4 {
+        font-size: 21px;
+    }
+    .heading-border-top h1 {
+        font-size: 21px;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box p {
+        font-size: 14px;
+    }
+    .heading-border-top .our-latest-border-top {
+        width: 10%;
+    }
+    .why-choose-us {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .why-choose-us h4 {
+        font-size: 28px;
+    }
+    .android-echnology .android-echnology-box {
+        padding: 40px 0 0px 0;
+    }
+    .iot-echnology .iot-echnology-box .iot-contant-box h4 {
+        font-size: 21px;
+    }
+    .iphon-app .iphon-app-box .services-box h4 {
+        font-size: 21px;
+    }
+    section.Maintenance .Maintenance-contant p {
+        padding-top: 0px !important;
+    }
+    .btn-hover {
+        width: 135px;
+        height: 42px !important;
+        line-height: 28px;
+    }
+    header .header-box .header-bottam .navbar-brand {
+        height: 0px;
+        padding: 0px 0px;
+        width: 80%;
+    }
+    .navbar-brand>img {
+        padding-top: 0px;
+        display: block;
+        width: 80%;
+    }
+    header .header-box .header-bottam .navbar-nav>li {
+        float: left;
+        font-size: 14px;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-nav>li>a {
+        padding: 15px 7px;
+    }
+    .kpis-btn-default {
+        font-size: 14px;
+    }
+    .item .item-box h4 {
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .item .item-box h4 .span {
+        font-size: 28px;
+    }
+    .item .item-box p {
+        padding-top: 0px;
+    }
+    .carousel-indicators li {
+        margin: 0 8px;
+    }
+    .carousel-indicators li {
+        margin: 0 8px !important;
+    }
+    .icon-images {
+        padding: 9px 10px;
+        border-radius: 100%;
+        border: 3px solid #fff;
+    }
+    .contatn-div {
+        width: 90%;
+        float: right;
+    }
+    .our-exp {
+        height: 1770px;
+    }
+    footer .footer-bg .footer-box .footer-contant-box h4 {
+        color: #000;
+        font-size: 18px;
+    }
+    .servies .contant-box h2 {
+        font-size: 21px;
+        line-height: 32px;
+    }
+    .servies .contant-box p {
+        line-height: 23px;
+        padding-top: 0px;
+    }
+    .servies .contant-box .kpis-btn-default {
+        margin-top: 17px;
+    }
+    .servies-overview .img-box img {
+        width: 100%;
+    }
+    .servies-overview .overview-contant p {
+        text-align: left;
+        line-height: 21px;
+        padding-top: 0px;
+    }
+    .wsmenu-list {
+        width: 80% !important;
+        float: right !important;
+    }
+    .contatn-box {
+        width: 90%;
+    }
+    .trans-box {
+        height: 155px;
+    }
+    .web-design .services-icon img {
+        width: 100%;
+    }
+    .web-design {
+        width: 18%;
+    }
+    .web-contant {
+        width: 78% !important;
+    }
+    #ourservice {
+        height: 960px !important;
+    }
+    .iphon-app .img-box2 {
+        position: absolute;
+        left: 10%;
+        top: 2%;
+    }
+    .iphon-app .iphon-app-box .contant-box h4 {
+        font-size: 18px;
+    }
+    .iphon-app .img-box {
+        position: absolute;
+        left: 85%;
+        top: 39%;
+        display: none;
+    }
+    .ipaid-services .ipaid-services-box {
+        text-align: center;
+    }
+    .ipaid-services .ipaid-services-box .img-box img {
+        width: 50%;
+    }
+    .ipaid-services .ipaid-services-box .img-box {
+        padding-top: 0px;
+    }
+    .kpis-slider h2 {
+        font-size: 30px;
+    }
+    .Expertis h2 {
+        font-size: 30px;
+    }
+    .techonlogy h2 {
+        font-size: 30px;
+    }
+    .our-sayclient h2 {
+        font-size: 30px;
+    }
+    .our-clinet h2 {
+        font-size: 30px;
+    }
+    .service h2 {
+        font-size: 30px !important;
+    }
+    .about-us .about-us-banner .about-us-box {
+        margin: 23px 0 0 0;
+        text-align: center;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box {
+        margin: 22px 0;
+    }
+    .why-choose-us h4::before {
+        left: 44%;
+    }
+    footer .footer-bg .footer-box .footer-contant-box {
+        margin-top: 20px;
+    }
+    footer .footer-bg .footer-box .border-lift {
+        margin-top: 20px;
+    }
+    .why-choose-us .why-choose-us-box .welcome-img-box img {
+        margin-top: 0px;
+        width: 100%;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome {
+        padding-top: 30px;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .about-us .about-us-banner .about-us-box p {
+        color: #000;
+        text-align: center;
+        padding-top: 10px;
+        font-size: 26px;
+    }
+    .iPhone-services .iPhone-services-box .services-box h5 {
+        margin-top: 0px;
+        font-size: 16px;
+    }
+    .iPhone-services .iPhone-services-box .services-box {
+        padding: 20px 5px;
+    }
+    .iPhone-services .iPhone-services-box .services-box p {
+        margin-top: 0px;
+        text-align: justify;
+    }
+    .col-sm-display {
+        display: none;
+    }
+    .ios-mobile-services .ios-mobile-services-box .contant-box .contant-box1 {
+        margin-top: 20px !important;
+        text-align: center;
+    }
+    .ios-mobile-services .ios-mobile-services-box .contant-box .contant-box2 {
+        margin-top: 66px;
+        text-align: center;
+    }
+    .ios-mobile-services .ios-mobile-services-box {
+        margin-top: 0px;
+    }
+    .ios-mobile-services .ios-mobile-services-box .contant-box .contant-box2 {
+        margin-top: 20px !important;
+        text-align: center;
+    }
+    .ios-mobile-services h4 {
+        padding: 30px 0 18px 0;
+    }
+    .ios-mobile-services h4::before {
+        top: 78px;
+        left: 40%;
+    }
+    .ios-mobile-services {
+        padding-bottom: 40px;
+    }
+    .servies-overview {
+        padding: 10px 0;
+    }
+    .kind-of-apps {
+        padding-top: 10px;
+    }
+    .kind-of-apps .heading h2::before {
+        left: 43%;
+    }
+    .iPhone-services h4 {
+        padding: 20px 0 0px 0;
+        font-size: 21px;
+    }
+    .iPhone-services h4::before {
+        display: none;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .container-text {
+        padding-top: 35px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .img-box {
+        padding-top: 0;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .img-box {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .container-text {
+        padding-top: 35 px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .container-text h3 {
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .container-text h3 {
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .img-box {
+        padding-top: 80px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .img-box img {
+        width: 100%;
+    }
+    .portfolio-study .portfolio-study-rummy {
+        padding: 0px 0 70px 0;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text {
+        padding-top: 50px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text h3 {
+        text-align: center;
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text a {
+        text-align: center !important;
+        float: none;
+    }
+    .portfolio-banner {
+        height: 310px;
+    }
+    .portfolio-banner .portfolio-banner-box h1 {
+        font-size: 54px;
+    }
+    .portfolio-banner .portfolio-banner-box {
+        text-align: center;
+        padding: 60px 0 0 0;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .img-box img {
+        width: 80%;
+    }
+    .iPhone-services .iPhone-services-box {
+        margin: 30px 0;
+    }
+    .iPhone-services .iPhone-services-box2 .services-box2 h5 {
+        font-size: 14px;
+        margin-top: 12px;
+        line-height: 20px;
+    }
+    .iPhone-services .iPhone-services-box2 .services-box2 p {
+        font-size: 14px;
+        margin-top: 0px;
+        text-align: justify;
+    }
+    .iPhone-services .iPhone-services-box2 {
+        padding: 0;
+        margin-top: 0px;
+    }
+    .how-we-prepare {
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    .how-we-prepare .how-we-prepare-box {
+        margin: 40px 0;
+    }
+    .how-we-prepare h4 {
+        padding: 20px 0 25px 0;
+        font-size: 21px;
+    }
+    .how-we-prepare h4::before {
+        top: 65px;
+        left: 39%;
+    }
+    .how-we-prepare h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .iphon-app .iphon-app-box .link-box .link-contant .link-contant-left1 {
+        text-align: left;
+        margin-top: 0px;
+    }
+    .iphon-app .iphon-app-box .link-box .link-contant .link-contant-left2 {
+        text-align: left;
+        margin-top: 20px;
+    }
+    .android-echnology h5 {
+        font-size: 16px;
+    }
+    .android-echnology .android-echnology-box .servies-box-img {
+        height: 235px;
+    }
+    .iPhone-services h5 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .megamenu {
+        color: #000;
+        text-align: left;
+        font-size: 14px !important;
+    }
+    .megamenu .title {
+        color: #424242;
+        font-size: 15px !important;
+    }
+    .serives-iphone-ipaid-app-page .img-box1 {
+        display: none;
+    }
+    .serives-iphone-ipaid-app-page .img-box {
+        display: none;
+    }
+    .services-box .react-native-box .contant-react .span {
+        margin-bottom: 110px;
+    }
+    .angular-development-box .angular-contant-right img {
+        width: 50%;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box .costom-servies-box .costom-servies {
+        margin: 0 0px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        width: 65%;
+    }
+    .iot-banner-medal .iot-banner-medal-serives .iot-serives-box p {
+        line-height: 23px;
+    }
+    section.Maintenance .Maintenance-contant .heading21 h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    section.Maintenance .img-box {
+        margin-top: 50px;
+    }
+    .p-text-padding-top {
+        padding-top: 0px;
+    }
+    .item .item-img-box {
+        margin-top: 0px;
+    }
+    header {
+        padding-bottom: 76px;
+    }
+    /***************create responsive for sunil**************/
+    .case-studies-banner {
+        height: 330px;
+    }
+    .case-studies-banner .case-studies-banner-box {
+        padding: 55px 0 0 0;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 377px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 67%;
+    }
+    .case-studies-banner {
+        height: 267px;
+    }
+    .case-studies-banner .case-studies-banner-box h2 {
+        font-size: 56px;
+    }
+    .case-studies-banner .case-studies-banner-box h4 {
+        font-size: 22px;
+    }
+    .serives-android-app .caree-box {
+        height: 267px;
+    }
+    .digital-marketing p {
+        padding: 0 14px 32px 14px;
+    }
+    img.digital-icon {
+        margin: 30px 79px;
+    }
+    .digital-marketing {
+        height: 317px;
+    }
+    .btn-primary {
+        margin: 11px 0;
+    }
+    img.digital-icon {
+        margin: 14px 0px;
+    }
+    .contact-outer {
+        padding: 18px 0px;
+        margin: 30px 0px;
+    }
+    .how-we-prepare h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .java-development-banner {
+        height: 375px;
+    }
+    .outer-website h4 {
+        padding: 30px 0 25px 0;
+    }
+    .outer-website h4::before {
+        top: 80px;
+        left: 39%;
+    }
+    .iphon-app .img-box2 {
+        display: none;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box h5 {
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 21px;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box p {
+        line-height: 20px;
+        text-align: justify;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box {
+        padding: 20px 10px 20px 10px;
+        height: 340px;
+    }
+    .android-echnology .net-banner-medal .net-banner-medal-serives .net-serives-box {
+        padding: 20px 10px 20px 10px;
+        height: 356px;
+    }
+    .angular-banner-medal .angular-banner-medal-serives {
+        margin: 30px 0;
+    }
+    .iphon-app .iphon-app-box .services-box h4::before {
+        top: 90px;
+        left: 41%;
+    }
+    .iphon-app .iphon-app-box .link-box {
+        text-align: center;
+        padding: 0px 0;
+        margin-bottom: 30px;
+    }
+    header .header-box .header-top h4 {
+        color: #FFF;
+        font-size: 16px;
+    }
+    .wsmenu-list>li>a {
+        padding: 9px 14px !important;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 75px;
+        width: 65%;
+        height: 285px;
+        left: 134px;
+    }
+    .home-banner .img-bg img {
+        width: 640px;
+        display: none;
+    }
+    .home-banner .img-box {
+        margin-top: 50px;
+    }
+    .p-t-b {
+        padding: 25px 0;
+    }
+    .ourservice:before {
+        content: "";
+        background: #f8f8fa;
+        width: 35%;
+        height: 390px;
+        position: absolute;
+        margin-top: 0px;
+        right: 0;
+    }
+    .ourservice .ourservice-contant-box h4 {
+        font-size: 21px;
+    }
+    .ourservice .ourservice-contant-box p {
+        color: #b8b8b8;
+        font-size: 14px;
+    }
+    .ourservice .ourservice-contant-box .img-box p {
+        color: #000;
+        font-size: 14px;
+        margin-top: 16px;
+    }
+    .our-latest-work .our-latest-work-box h4 {
+        line-height: 21px !important;
+        font-size: 21px !important;
+    }
+    .our-latest-work .our-latest-work-box p {
+        font-size: 14px;
+    }
+    .our-latest-work .item .our-latest-work-box-contant h4 {
+        font-size: 14px !important;
+        line-height: 21px !important;
+    }
+    .our-latest-work .item .our-latest-work-box-contant .btn-box {
+        margin-top: 40px;
+    }
+    .our-latest-work .item .our-latest-work-box-contant {
+        padding: 0px 0 0 0;
+        text-align: left;
+    }
+    .our-latest-work:before {
+        content: "";
+        height: 263px;
+    }
+    .why-work-kpis .why-work-kpis-box h2 {
+        color: #000;
+        font-size: 21px;
+    }
+    .projectFactsWrap .item p.number {
+        font-size: 42px !important;
+        padding: 0;
+        font-weight: bold;
+        color: #000;
+        line-height: 76px;
+    }
+    .projectFactsWrap .item p {
+        padding: 5px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant h2 {
+        font-size: 48px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box h2 {
+        font-size: 48px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        font-size: 28px;
+        position: absolute;
+        top: -2%;
+        right: 28%;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant .span {
+        font-size: 28px;
+        position: absolute;
+        top: -2%;
+        right: 26%;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant:before {
+        content: '';
+        width: 1px;
+        height: 115px;
+        position: absolute;
+        background: -moz-linear-gradient(left, #fff 0, #dcdcdc 29%, #dcdcdc 62%, #fff 100%);
+        background: -webkit-linear-gradient(left, #fff 0, #dcdcdc 29%, #dcdcdc 62%, #fff 100%);
+        background: linear-gradient(to top, #58119d 0, #dcdcdc 29%, #dcdcdc 71%, #58119d 100%);
+        right: 0;
+        top: 0;
+    }
+    .p-t {
+        padding-top: 25px;
+    }
+    .our-technoloy .contant-technoloy {
+        padding-top: 0px;
+    }
+    .our-technoloy .contant-technoloy .btn-box {
+        display: none;
+    }
+    .row-p-t {
+        padding-top: 45px;
+    }
+    .our-technoloy .contant-service h4 {
+        font-size: 18px;
+        color: #000;
+    }
+    .home-banner .home-banner-contant .btn-box {
+        margin-top: 30px;
+        display: none;
+    }
+    .home-banner .img-box .btn-box {
+        display: block;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        margin-top: 30px;
+    }
+    .our-technoloy .btn-box1 {
+        display: none;
+    }
+    .our-technoloy .contant-technoloy h4 {
+        font-size: 21px;
+    }
+    .our-technoloy .contant-technoloy p {
+        font-size: 14px;
+    }
+    .our-latest-work .our-latest-work-box .our-latest-border {
+        width: 10%;
+    }
+    .our-technoloy .contant-technoloy .our-latest-border {
+        width: 10%;
+    }
+    .our-sayclient .our-latest-border {
+        width: 10%;
+    }
+    .footer-slider .client-slider-box .contant-box .our-latest-border {
+        width: 10%;
+    }
+    .footer-slider .client-slider-box .contant-box {
+        margin-top: 0px;
+    }
+    .our-clients-kpis .our-latest-border {
+        width: 10%;
+    }
+    .blog .blog-box .our-latest-border {
+        width: 10% !important;
+    }
+    .blog .blog-box h4 {
+        font-size: 28px;
+    }
+    .blog .blog-box p {
+        font-size: 14px;
+    }
+    .blog .blog-box .blog-contant-box {
+        margin-bottom: 30px;
+    }
+    footer .footer-top .footer-top-box .icon-list-box li {
+        display: inline-block;
+        margin: 0 0px;
+    }
+    footer .footer-top .footer-top-box .copy-text-box .copy-text {
+        color: #000;
+        font-size: 14px;
+        padding-top: 15px;
+    }
+    .blog .blog-box .blog-contant-box p {
+        font-size: 14px;
+        padding: 12px 16px;
+    }
+    .blog .blog-box .blog-contant-box h4 {
+        font-size: 16px;
+        line-height: 21px;
+        padding: 0;
+    }
+    .testimonial {
+        padding: 20px 20px 22px 20px;
+        height: 275px;
+    }
+    .p-t-50 {
+        padding-top: 20px;
+    }
+    footer .footer-bg {
+        padding: 30px 0;
+        background: #fff;
+    }
+    .your-project .img-box {
+        padding-top: 70px;
+        display: none;
+    }
+    header .header-box .header-bottam .btn {
+        width: 118px;
+        height: 38px;
+    }
+    .company {
+        width: 24% !important;
+        left: 17% !important;
+        top: 102% !important;
+    }
+    .Our-Services {
+        width: 80% !important;
+        left: 15% !important;
+        top: 103% !important;
+    }
+    .Technology {
+        width: 100% !important;
+        left: 0% !important;
+        top: 100% !important;
+    }
+    .Industries {
+        width: 60% !important;
+        left: 36% !important;
+        top: 100% !important;
+    }
+    .our-latest-work .item .our-latest-work-box-contant h6 {
+        font-size: 36px;
+        font-weight: 500;
+    }
+    .iPhone-services h4::before {
+        top: 63px;
+        left: 39%;
+    }
+    .iot-echnology .iot-echnology-box .iot-img-box img {
+        width: 70%;
+    }
+    .iot-echnology .iot-echnology-box .iot-contant-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        margin-top: 30px;
+    }
+    .iot-echnology .iot-echnology-box .iot-contant-box h4:before {
+        top: 48px;
+        left: 43%;
+    }
+    .iot-echnology .iot-echnology-box .iot-contant-box h5 {
+        padding: 0px 0px 0 0;
+    }
+    .Mobile-Application-services:before {
+        display: none;
+    }
+    .Mobile-Application-services .img-box img {
+        width: 70%;
+    }
+    .Mobile-Application-services .img-box {
+        margin-top: 25px;
+        text-align: center;
+    }
+    .why-choose-our-mobile .img-box {
+        text-align: center;
+    }
+    .why-choose-our-mobile .img-box img {
+        width: 60%;
+    }
+    .Mobile-Application-services .contant-box {
+        padding: 0 0px 0 0;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .mobile-defvelopment-services {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .why-choose-our-mobile .contant-services {
+        text-align: -webkit-left;
+    }
+    .why-choose-our-mobile {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .your-project .form-project-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .web-Application-services:before {
+        display: none;
+    }
+    .web-Application-services {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .web-Application-services .contant-box {
+        padding: 0 0px 0 0;
+        margin-top: 0px;
+    }
+    .web-Application-services .contant-box p {
+        line-height: 21px;
+        padding-top: 0px;
+        font-size: 14px;
+    }
+    .web-Application-services .img-box img {
+        width: 60%;
+    }
+    .web-Application-service .service-box .enr-service-box {
+        height: 135px;
+        width: 135px;
+    }
+    .web-technolocies {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .web-Application-service {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .web-technolocies .our-latest-border {
+        width: 10%;
+    }
+    .web-Application-service .our-latest-border {
+        width: 10%;
+    }
+    .web-Application-services .contant-box h1 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .web-Application-tab .tab-box h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .web-technolocies h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .web-Application-service h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .display-none {
+        display: block;
+    }
+    .display {
+        display: none;
+    }
+    .web-Application-tab {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .web-Application-tab .tab-box {
+        padding-top: 20px;
+        margin-bottom: 30px;
+    }
+    .custom-softwere-develoment-box .contant-box {
+        padding-right: 0px;
+        margin-top: 0px;
+    }
+    .custom-softwere-develoment-box .contant-box h4 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .custom-softwere-wht-choose .heading-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .custom-softwere-wht-choose .heading-box .our-latest-border {
+        width: 10%;
+    }
+    .custom-softwere-peratek-text {
+        text-align: center;
+    }
+    .custom-softwere-our-services .our-latest-border {
+        width: 10%;
+    }
+    .custom-softwere-our-services {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .custom-softwere-wht-choose .heading-box h4 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+    .custom-softwere-our-services h4 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .nav>li {
+        position: relative;
+        display: -webkit-inline-box;
+    }
+    .nav-tabs>li>a {
+        color: #000;
+        cursor: default;
+        background-color: #fff;
+        font-size: 14px;
+        border-left: 0;
+        padding: 12px 15px;
+    }
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:focus,
+    .nav-tabs>li.active>a:hover {
+        color: #000;
+        cursor: default;
+        background-color: #fff;
+        border: 3px solid #9538c8;
+        font-size: 14px;
+        border-bottom: 0;
+        border-radius: 0;
+    }
+    .tabs-right {
+        border-left: none;
+        margin-top: 10px;
+    }
+    .tab-content>.tab-pane .img-box img {
+        width: 60%;
+    }
+    .tabs-left>li,
+    .tabs-right>li {
+        float: none;
+        margin-bottom: -2px;
+    }
+    .web-Application-tab .tab-box .our-latest-border {
+        background-image: linear-gradient(to right, #df4b8e, #9538c8);
+        width: 10%;
+        height: 4px;
+        margin-bottom: 15px !important;
+    }
+    .rummy-development h4 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .rummy-development {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .kpis-rummy {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .kpis-rummy h4 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .custom-softwere-wht-choose .service-box .service-text p {
+        font-size: 14px;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box img {
+        width: 50%;
+    }
+    .home-banner .home-banner-contant {
+        margin-top: 0px;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-latest-work .our-latest-work-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-technoloy {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-sayclient {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .footer-slider .client-slider-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-clients-kpis {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .blog .blog-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .ourservice .ourservice-contant-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .carwash:before {
+        display: none;
+    }
+    .carwash:after {
+        display: none;
+    }
+    .carwash .carwash_box .contant_box {
+        padding: 60px 0;
+    }
+    .flashwas .flashwas-banner .flashwas-contant .contant h1 {
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 34px;
+    }
+    .flashwas .flashwas-banner .flashwas-contant {
+        padding: 95px 0;
+    }
+    .teen_paati .teen_paati_banner .img_box img {
+        width: 100%;
+    }
+    .teen_paati .teen_paati_banner .contant_box {
+        padding-top: 0px;
+    }
+    .teen_paati_platforms .feature_contant_box .img_box img {
+        width: 100%;
+    }
+    .develop_contant .contant_box {
+        padding: 0px 0;
+    }
+    .develop_contant .img_box img {
+        width: 100%;
+    }
+    .teen_patti_development .contant_box .text_contant {
+        background: #fff;
+        padding: 15px 15px;
+        border-radius: 10px;
+        margin: 15px 0;
+    }
+    .cab_cooking_features .cab_cooking_contant .left_img_box .img_box {
+        width: 65px;
+        height: 65px;
+    }
+    .cab_cooking_features .cab_cooking_contant .right_img_box .img_box {
+        width: 65px;
+        height: 65px;
+    }
+    .cab_cooking_features .cab_cooking_contant .left_contant_box h4 {
+        font-size: 18px;
+    }
+    .cab_cooking_features .cab_cooking_contant .right_contant_box h4 {
+        font-size: 18px;
+        color: #000;
+    }
+    .cab_business .cab_business_contant .img_box img {
+        width: 100%;
+    }
+    .cab_business .cab_business_contant .contant_box ul li {
+        margin: 15px 0;
+        font-size: 12px;
+    }
+    .car_solutions_panels .car_solutions_contant .img_box img {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .section_heading h4 {
+        font-size: 21px;
+    }
+    .section_heading .our-latest-border-top {
+        width: 10%;
+    }
+    .cab_booking .cab_booking_banner .contant_box h1 {
+        font-size: 21px;
+    }
+    .casino_game {
+        padding: 10px 0;
+    }
+    .casino_game .casino_game_banner .contant_box .btn_box {
+        margin-top: 20px;
+    }
+    .casino_development .casino_development_contant .img_box img {
+        width: 100%;
+    }
+    .pos_benefits_section:before {
+        width: 390px;
+        height: 302px;
+    }
+    .pos_develoment {
+        padding: 20px 0;
+    }
+    .pos_develoment .pos_develoment_banner .contant_box {
+        text-align: center;
+    }
+    .pos_silder_section {
+        padding: 30px 0;
+    }
+    .pos_silder_section {
+        text-align: center;
+    }
+    .pos_silder_section .pos_silder_section_contant .carousel-inner .contant_box .section_heading h4 {
+        text-align: center;
+    }
+    .pos_silder_section .pos_silder_section_contant .carousel-inner .contant_box .section_heading .our-latest-border-top {
+        margin: 0 auto;
+        background: #fff;
+        width: 12%;
+    }
+    .pos_silder_section .pos_silder_section_contant .carousel .carousel-control .glyphicon-chevron-left,
+    .carousel-control .icon-prev {
+        top: 310px;
+    }
+    .pos_silder_section .pos_silder_section_contant .carousel .carousel-control .glyphicon-chevron-right,
+    .carousel-control .icon-next {
+        top: 310px;
+    }
+}
+
+@media (max-width: 800px) {}
+
+@media (max-width: 768px) {
+    .where-infigic:before {
+        height: 330px;
+        width: 273px;
+        top: 107px;
+    }
+    .marijuana-delivery:before {
+        height: 330px;
+        width: 278px;
+    }
+    .v-center {
+        width: 22%;
+    }
+    .develop-contant {
+        padding-top: 0px;
+        margin-left: 40px;
+    }
+    .developmentt {
+        padding: 11px 9px;
+        margin-top: 27px;
+        margin-left: 21px;
+    }
+    .web-develop {
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .AI-develop {
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+    .mobile-develop {
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .test-develop {
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+    .Environments-develop {
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .detabase-develop {
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .Game-develop {
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .service h2 {
+        font-size: 28px !important;
+    }
+    .Expertis h2 {
+        font-size: 34px;
+    }
+    .techonlogy h2 {
+        font-size: 28px;
+    }
+    .our-sayclient h2 {
+        font-size: 28px;
+    }
+    .our-clinet h2 {
+        font-size: 28px;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant h4 {
+        font-size: 16px;
+    }
+    .wsmenu-list {
+        width: 100% !important;
+        float: right !important;
+    }
+    .wsmenu {
+        width: 82% !important;
+    }
+    .wsmenu-list>li>a {
+        display: block;
+        color: #000000;
+        padding: 6px 10px !important;
+        text-decoration: none;
+        position: relative;
+        font-size: 14px !important;
+    }
+    .ourservice:before {
+        width: 30%;
+        height: 385px;
+    }
+}
+
+@media (max-width: 767px) {
+    .poker-our-game-serivce h4 {
+        font-size: 21px;
+        line-height: 28px;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #fff;
+    }
+    .rummy .rummy-banner .rummy-contant .contant h1 {
+        font-size: 38px;
+    }
+    .poker-game .poker-banner .poker-contant .contant h1 {
+        font-size: 21px;
+        line-height: 36px;
+    }
+    .poker-game-features .poker-center {
+        text-align: center;
+        display: none;
+    }
+    .poker-display {
+        display: block;
+        padding-top: 40px;
+    }
+    .projects-in-title {
+        display: none;
+    }
+    /***********poker css****************/
+    .poker-display {
+        display: block;
+        text-align: center;
+        padding-top: 40px;
+    }
+    .projects-in-title {
+        display: none;
+    }
+    .content-boxx {
+        font-size: 14px;
+        line-height: 21px;
+        color: #738b9f;
+        padding: 0 20px;
+    }
+    .Rummy-img-box img {
+        width: 65% !important;
+        padding: 100px 0;
+    }
+    .mac-area-clip {
+        position: relative;
+        height: 110vh;
+    }
+    .our-btn {
+        line-height: 38px;
+        background: #f2f2f2;
+        color: #000;
+        display: block;
+        margin: 10px 0;
+    }
+    .sealog-box-content img {
+        width: 30%;
+        margin-bottom: 20px;
+    }
+    .Swag-box-content img {
+        width: 30%;
+        margin-bottom: 20px;
+    }
+    .sealog-box-content .headingtext {
+        font-size: 21px;
+    }
+    .Swag-box-content .headingtext {
+        font-size: 21px;
+    }
+    .Pyramid-box-content .headingtext {
+        font-size: 21px;
+    }
+    .sabheading {
+        font-size: 14px;
+    }
+    .rummy-box-content .headingtext {
+        font-size: 21px;
+    }
+    .Pyramid-box-content img {
+        width: 30%;
+        margin-bottom: 20px;
+    }
+    .mt-0 {
+        margin-top: 0 !important;
+    }
+    .kslide-navbar {
+        bottom: 10px !important;
+        left: 0%;
+    }
+    .bg-primary1 {
+        background: linear-gradient(to bottom, rgba(63, 186, 254, 1) 0, rgba(1, 241, 254, 1) 60%, #fff 40%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .bg-primary2 {
+        background: linear-gradient(to bottom, rgba(255, 115, 57, 1) 0, rgba(255, 185, 18, 1) 60%, #fff 40%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+        overflow: hidden;
+    }
+    .bg-primary3 {
+        background: linear-gradient(to bottom, rgba(255, 216, 53, 1) 0, rgba(255, 246, 163, 1) 60%, #fff 40%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+        overflow: hidden;
+    }
+    .bg-primary4 {
+        background: linear-gradient(to bottom, rgba(206, 32, 16, 1) 0, rgba(248, 119, 2, 1) 60%, #fff 40%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+        overflow: hidden;
+    }
+    .mac-area-clip {
+        position: relative;
+        height: 142vh;
+    }
+    .img--projects img {
+        width: 45%;
+    }
+    .mac-area {
+        text-align: center;
+        position: unset;
+        padding-top: 25px;
+    }
+    .sealog-box-content .headingtext {
+        text-align: center;
+    }
+    .sealog-box-content .headingtext:after {
+        left: calc(50% - 25px);
+    }
+    .our-btn {
+        display: inline-block;
+    }
+    .sealog-box-content img {
+        display: none;
+    }
+    .Swag-box-content img {
+        display: none;
+    }
+    .Pyramid-box-content img {
+        display: none;
+    }
+    .Swag-box-content .headingtext {
+        text-align: center;
+    }
+    .Swag-box-content .headingtext:after {
+        left: calc(50% - 25px);
+    }
+    .Pyramid-box-content .headingtext {
+        text-align: center;
+    }
+    .Pyramid-box-content .headingtext:after {
+        left: calc(50% - 25px);
+    }
+    .rummy-box-content .headingtext {
+        text-align: center;
+    }
+    .rummy-box-content .headingtext:after {
+        left: calc(50% - 25px);
+    }
+    .rummy-box-content img {
+        display: none;
+    }
+    .sealog-box-content {
+        position: relative;
+        top: 25px;
+    }
+    .Swag-box-content {
+        position: relative;
+        top: 25px;
+    }
+    .Pyramid-box-content {
+        position: relative;
+        top: 25px;
+    }
+    .rummy-box-content {
+        position: relative;
+        left: 0px;
+    }
+    .m-t-20 {
+        margin-top: 10px;
+    }
+    /***************************************/
+    .heading:before {
+        content: '';
+        position: absolute;
+        display: block;
+        width: 10%;
+        height: 5px;
+        background-image: linear-gradient(to right, #df4b8e, #9538c8);
+        top: -20px;
+        left: calc(46% - 0px);
+    }
+    .react-development .icon-contant-box {
+        height: 295px;
+    }
+    .react-our-services .icon-contant-box {
+        margin: 15px 0;
+        height: 250px;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+        padding: 15px;
+    }
+    .ReactJS-development .contant-box h1 {
+        font-size: 21px;
+    }
+    .heading {
+        font-size: 21px;
+    }
+    /*******************grocery-page start***********************/
+    .our-latest-work .item1 .our-latest-work-box-contant h5 {
+        text-align: center;
+    }
+    .our-latest-work .item1 .our-latest-work-box-contant h4 {
+        text-align: center;
+    }
+    .our-latest-work .item2 .our-latest-work-box-contant h5 {
+        text-align: center;
+    }
+    .our-latest-work .item2 .our-latest-work-box-contant h4 {
+        text-align: center;
+    }
+    .our-latest-work .item3 .our-latest-work-box-contant h5 {
+        text-align: center;
+    }
+    .our-latest-work .item3 .our-latest-work-box-contant h4 {
+        text-align: center;
+    }
+    .our-latest-work .item4 .our-latest-work-box-contant h5 {
+        text-align: center;
+    }
+    .our-latest-work .item4 .our-latest-work-box-contant h4 {
+        text-align: center;
+    }
+    .our-latest-work .item1 .our-latest-work-box-contant h6:after {
+        content: '';
+        left: calc(49% - 25px);
+    }
+    .our-latest-work .item2 .our-latest-work-box-contant h6:after {
+        content: '';
+        left: calc(49% - 25px);
+    }
+    .our-latest-work .item3 .our-latest-work-box-contant h6:after {
+        content: '';
+        left: calc(49% - 25px);
+    }
+    .our-latest-work .item4 .our-latest-work-box-contant h6:after {
+        content: '';
+        left: calc(49% - 25px);
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        width: 450px;
+        height: 450px;
+        left: 31%;
+        top: 25%;
+    }
+    .our-latest-work .item2 .our-latest-work-box-img-box img {
+        width: 60%;
+    }
+    .our-latest-work .item1 .our-latest-work-box-img-box img {
+        width: 50%;
+    }
+    .our-latest-work .item3 .our-latest-work-box-img-box img {
+        width: 50%;
+    }
+    .our-latest-work .item4 .our-latest-work-box-img-box img {
+        width: 50%;
+    }
+    .Costomer-app-feature .our-latest-border {
+        width: 10%;
+    }
+    .grocery-driver-app .our-latest-border {
+        width: 10%;
+    }
+    .grocery-restaurant-managment h4 {
+        font-size: 21px;
+    }
+    .grocery-restaurant-managment .our-latest-border {
+        width: 10%;
+    }
+    .grocery-driver-app h4 {
+        font-size: 21px;
+    }
+    .Costomer-app-feature h4 {
+        font-size: 21px;
+    }
+    .grocery-restaurant-managment .contant-box {
+        height: 190px;
+    }
+    .grocery-restaurant-managment .contant-box .icon-contan-box {
+        text-align: center;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 40%;
+    }
+    .grocery-banner:before {
+        left: 0;
+    }
+    .grocery-banner {
+        text-align: center;
+    }
+    .grocery-banner .img-box img {
+        width: 70%;
+        padding-top: 30px;
+    }
+    .Costomer-app-feature .img-box img {
+        width: 50%;
+    }
+    .grocery-display1-none {
+        display: block;
+    }
+    .grocery-display1-block {
+        display: none;
+    }
+    /*******************grocery-page end***********************/
+    /*******************Restaurant-page start***********************/
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .container-text {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .img-box {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .img-box img {
+        width: 50%;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .container-text {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .img-box {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .img-box img {
+        width: 50%;
+    }
+    .our-latest-work .our-latest-work-box .carousel-control.left {
+        display: block;
+        bottom: 0;
+        top: auto;
+        left: 10%;
+        bottom: 54px;
+    }
+    .our-latest-work .our-latest-work-box .carousel-control.right {
+        display: block;
+        bottom: 0;
+        top: auto;
+        right: 10%;
+        bottom: 54px;
+    }
+    .Restaurant-banner {
+        text-align: center;
+    }
+    .Restaurant-banner .img-box img {
+        width: 70%;
+        margin-top: 50px;
+    }
+    .Restaurant-management h4 {
+        font-size: 21px;
+    }
+    .why-kpis h4 {
+        font-size: 21px;
+    }
+    .Comprehensive-Restaurant h4 {
+        font-size: 21px;
+    }
+    .Boost-your-restaurant h4 {
+        font-size: 21px;
+    }
+    .Customised-Restaurant-Management h4 {
+        font-size: 21px;
+    }
+    .why-kpis .our-latest-border {
+        width: 10%;
+    }
+    .Customised-Restaurant-Management .our-latest-border {
+        width: 10%;
+    }
+    .Boost-your-restaurant .our-latest-border {
+        width: 10%;
+    }
+    .Comprehensive-Restaurant .our-latest-border {
+        width: 10%;
+    }
+    .Restaurant-management .our-latest-border {
+        width: 10%;
+    }
+    .why-kpis .contant-box .icon-contant-box .contant-box {
+        text-align: center;
+    }
+    .Restaurant-management .icon-contant-box {
+        height: 110px;
+    }
+    .Restaurant-management .icon-contant-box .contant-box {
+        text-align: center;
+    }
+    .Boost-your-restaurant .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        left: 37%;
+    }
+    /*******************Restaurant-page end***********************/
+    .table-responsive.tabs-defaults {
+        display: none;
+    }
+    .td-tabs {
+        width: 60%;
+        margin: 0 auto;
+        display: block;
+    }
+    .table-responsive>.table>tbody>tr>td,
+    .table-responsive>.table>tbody>tr>th,
+    .table-responsive>.table>tfoot>tr>td,
+    .table-responsive>.table>tfoot>tr>th,
+    .table-responsive>.table>thead>tr>td,
+    .table-responsive>.table>thead>tr>th {
+        white-space: inherit;
+    }
+    .key-benefits .service-box p {
+        text-align: center;
+    }
+    .custom-food-delivery .contant-box p {
+        text-align: center;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        left: 24%;
+        top: 23%;
+    }
+    .cannibis-banner .contant-box {
+        margin-top: 0px;
+    }
+    .modal-fullscreen .modal-dialog {
+        position: relative;
+        top: auto;
+        margin: 12%;
+    }
+    .food-tabs-box .heading-box .our-latest-border {
+        width: 10%;
+    }
+    .where-infigic .heading-box .our-latest-border {
+        width: 10%;
+    }
+    .cannibis-banner {
+        padding: 30px 0;
+        text-align: center;
+    }
+    .cannibis-banner .img-box img {
+        width: 70%;
+    }
+    .marijuana-delivery {
+        position: relative;
+        text-align: -webkit-center;
+    }
+    .marijuana-delivery .img-box {
+        text-align: center;
+        margin-top: 20px;
+        width: 50%;
+    }
+    .marijuana-delivery:before {
+        display: none;
+    }
+    .where-infigic {
+        position: relative;
+        text-align: -webkit-center;
+        padding-top: 50px;
+    }
+    .where-infigic .img-box img {
+        width: 50%;
+    }
+    .where-infigic:before {
+        display: none;
+    }
+    .where-infigic .img-box {
+        padding-top: 0px;
+    }
+    .marijuana-delivery .contant-box .our-latest-border {
+        width: 10%;
+    }
+    /*********uptade css***************/
+    .whatsapp-chat .v-center {
+        width: 13%;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 90px;
+        height: 350px;
+    }
+    .food-ordering .food-banner .contant .img-box img {
+        width: 80%;
+    }
+    .food-ordering .food-banner .contant h1 {
+        color: #fff;
+        font-size: 21px;
+    }
+    .food-ordering .food-banner .contant .img-box {
+        margin-top: 20px;
+    }
+    .food-ordering .food-banner .contant .btn-box {
+        margin-top: 20px;
+    }
+    .testimonial .testimonial-box .pic {
+        margin: 0 auto;
+        left: 0px;
+    }
+    .logistic-banner {
+        text-align: center;
+    }
+    .logistic-banner .img-box img {
+        width: 70%;
+        margin-top: 50px;
+    }
+    .logistic-banner .logistic-contant h1 {
+        font-size: 56px;
+        line-height: 50px;
+    }
+    .key-benefits .our-latest-border {
+        width: 10%;
+    }
+    .custom-softwere-develoment-box h4 {
+        font-size: 21px;
+    }
+    .custom-softwere-develoment-box .our-latest-border {
+        width: 10%;
+    }
+    .logistic-slider .logistic-slider-box .our-latest-border {
+        width: 10%;
+    }
+    .logistic-slider .logistic-slider-box h4 {
+        font-size: 21px;
+    }
+    .logistic-accoding .accoding-box .our-latest-border {
+        width: 10%;
+        margin: 0 auto;
+    }
+    .logistic-accoding .accoding-box h4 {
+        font-size: 21px;
+    }
+    .text-center767 {
+        text-align: center;
+    }
+    .food-tabs-box .card .tab-content .logistic-box {
+        height: 156px;
+    }
+    .height-200 {
+        height: 152px !important;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        height: 351px !important;
+        padding-top: 22px;
+    }
+    .logistic-slider .logistic-slider-box .contant-box h6 {
+        font-size: 28px;
+    }
+    .img-width90 img {
+        width: 40% !important;
+    }
+    .android-echnology .android-echnology-mox .img-box img {
+        width: 80%;
+    }
+    .android-echnology .android-echnology-mox .contant-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        margin-top: 30px;
+    }
+    .android-echnology .our-latest-border {
+        width: 10%;
+    }
+    .features-outer .our-latest-border {
+        width: 10%;
+    }
+    .android-echnology h4 {
+        font-size: 21px;
+    }
+    .android-echnology h4 {
+        font-size: 21px;
+    }
+    .features-outer h4 {
+        font-size: 21px;
+    }
+    .web-Application-service h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .android-echnology .android-echnology-mox .contant-box h5 {
+        font-size: 21px;
+    }
+    .web-and-eCommerce {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .web-and-eCommerce .eCommerce-box .our-latest-border {
+        width: 10%;
+    }
+    .web-and-eCommerce .img-box img {
+        width: 70%;
+    }
+    .ecommerce-development-solution p {
+        text-align: justify;
+        font-size: 14px;
+    }
+    .ecommerce-development-solution .ecommerce-development-box .text-contant h5 {
+        line-height: 23px;
+        font-size: 16px;
+    }
+    .ecommerce-development-solution .our-latest-border {
+        width: 10%;
+    }
+    .ecommerce-our-services .our-latest-border {
+        width: 10%;
+    }
+    .web-and-eCommerce .eCommerce-box h1 {
+        font-size: 21px;
+    }
+    .web-and-eCommerce .eCommerce-box p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .ecommerce-development-solution h4 {
+        font-size: 21px;
+    }
+    .ecommerce-development-solution .ecommerce-development-box p {
+        font-size: 14px;
+    }
+    .ecommerce-development-solution .ecommerce-development-servece .service-text p {
+        font-size: 14px;
+    }
+    .ecommerce-development-solution .ecommerce-development-serveceright .service-text p {
+        font-size: 14px;
+    }
+    .ecommerce-our-services h4 {
+        font-size: 21px;
+    }
+    .ecommerce-our-services p {
+        font-size: 14px;
+    }
+    .ecommerce-our-services .service-box h5 {
+        font-size: 16px;
+    }
+    .ecommerce-our-services .service-box p {
+        font-size: 14px;
+    }
+    .ecommerce-our-services .service-box {
+        margin-bottom: 30px;
+    }
+    .heading-border-top .our-latest-border-top {
+        width: 10%;
+    }
+    .custom-food-delivery .contant-box .our-latest-border {
+        width: 10%;
+    }
+    .custom-food-delivery .Supercharge-contant-box .our-latest-border {
+        width: 10%;
+    }
+    .heading-border-top h4 {
+        font-size: 21px;
+    }
+    .custom-food-delivery .contant-box h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .custom-food-delivery .contant-box p {
+        font-size: 14px;
+        padding-top: 0px;
+    }
+    .custom-food-delivery .Supercharge-contant-box h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .custom-food-delivery .Supercharge-contant-box p {
+        font-size: 14px;
+        padding-top: 0px;
+    }
+    .food-tabs-box .card .tab-content .contant-box h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .food-tabs-box .card .tab-content .contant-box p {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .food-tabs-box .card .tab-content .service-box h5 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .food-tabs-box .card .tab-content .service-box p {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    .food-tabs-box .card .tab-content .service-box {
+        height: 230px;
+    }
+    .interested-in-launching .contant-box h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .interested-in-launching .contant-box p {
+        font-size: 14px;
+    }
+    .key-benefits h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .technology-and-solution h4 {
+        font-size: 21px;
+    }
+    .explore-our-other-app h4 {
+        font-size: 21px;
+    }
+    .key-benefits .service-box h5 {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .key-benefits .service-box p {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    .key-benefits .service-box {
+        height: 230px;
+    }
+    .content-details h3 {
+        font-size: 18px;
+    }
+    .tab-content>.tab-pane .logo-box img {
+        width: 100%;
+    }
+    .custom-food-delivery .heading-box p {
+        font-size: 14px;
+    }
+    .key-benefits p {
+        font-size: 14px;
+    }
+    /*********uptade end css***************/
+    .web-Application-services .contant-box h1 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .contact100-form .JobHunt-Office {
+        margin-top: 40px;
+    }
+    .custom-softwere-wht-choose .service-box {
+        float: left;
+        text-align: left;
+    }
+    .iphon-app .iphon-app-box .link-box .link-contant .link-contant-left {
+        float: left;
+        text-align: left;
+    }
+    .v-center {
+        width: 22%;
+    }
+    .row.form-outer {
+        padding: 0px 40px 50px 40px;
+    }
+    section.Maintenance .Maintenance-contant p {
+        text-align: center;
+    }
+    .heading-border-top1 .our-latest-border-top {
+        width: 10%;
+    }
+    .heading-border-top h4 {
+        font-size: 21px;
+    }
+    .heading-border-top h1 {
+        font-size: 21px;
+    }
+    .android-echnology .android-echnology-box .servies-box-img {
+        height: 240px;
+    }
+    .iPhone-services .Maintenance-services-box .Maintenance-box p {
+        font-size: 14px;
+    }
+    .text-light {
+        font-size: 14px;
+    }
+    .btn-hover {
+        width: 135px;
+        height: 42px !important;
+        line-height: 28px;
+    }
+    .display-none-767 {
+        display: none;
+    }
+    .navbar-brand>img {
+        padding-top: 2px;
+        display: block;
+        width: 28%;
+    }
+    .iPhone-services .iPhone-services-box2 .services-box2 p {
+        text-align: center;
+    }
+    .iPhone-services .iPhone-services-box .services-box p {
+        text-align: center;
+    }
+    .navbar-toggle {
+        margin-top: 19px;
+    }
+    .home-banner .banner-img {
+        background-image: none;
+    }
+    header .header-box .header-top h4 {
+        color: #FFF;
+        font-size: 16px;
+    }
+    .wsmenu {
+        right: 0px !important;
+        height: 100%;
+        position: relative !important;
+        float: left !important;
+    }
+    .wsmenu-list-new li a::after {
+        top: 42px !important;
+    }
+    .screen_wrap img {
+        width: 200px;
+    }
+    .screen_wrap {
+        width: 71%;
+        margin: 0 auto;
+    }
+    .iphon-app .img-box2 {
+        position: absolute;
+        left: 0%;
+        top: 2%;
+        display: none;
+    }
+    .iphon-app .img-box1 {
+        position: absolute;
+        left: 0%;
+        top: 50%;
+    }
+    .iphon-app .img-box {
+        position: absolute;
+        left: 81%;
+        top: 39%;
+    }
+    .iphon-app .iphon-app-box .contant-box {
+        position: relative;
+        text-align: justify;
+    }
+    .iphon-app .iphon-app-box .services-box p {
+        line-height: 30px;
+        margin-top: 0;
+    }
+    footer .copyright .copyright-box .icon-list-box {
+        padding-top: 20px;
+        float: left;
+    }
+    footer .copyright .copyright-box .icon-list-box ul {
+        margin: 0 auto;
+        padding: 0;
+    }
+    .wsmenu-list {
+        width: 100% !important;
+        float: right !important;
+    }
+    header {
+        padding-bottom: 140px;
+    }
+    .servies .contant-box {
+        text-align: center;
+    }
+    .servies-overview .img-box img {
+        width: 70%;
+    }
+    .servies-overview .img-box {
+        padding-top: 20px;
+    }
+    .servies .img-box {
+        text-align: center;
+    }
+    .servies .img-box img {
+        width: 70%;
+        margin-top: 20px;
+    }
+    .servies-overview .overview-contant p {
+        text-align: center;
+        line-height: 21px;
+        padding-top: 0px;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .img-box img {
+        width: 70%;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .container-text {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .img-box img {
+        width: 50%;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .img-box img {
+        width: 50%;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .container-text {
+        padding-top: 0px;
+    }
+    .rs1-wrap-input100,
+    .rs2-wrap-input100 {
+        width: 100%;
+        border-left: 1px solid;
+    }
+    .iphon-app .iphon-app-box .contant-box p {
+        padding-bottom: 0px;
+        line-height: 30px;
+    }
+    .iphon-app .iphon-app-box .services-box h4 {
+        padding: 20px 0 25px 0;
+    }
+    .iphon-app .iphon-app-box .services-box h4::before {
+        display: none;
+    }
+    .iphon-app .iphon-app-box .services-box {
+        text-align: center;
+        position: relative;
+    }
+    .iphon-app .img-box3 {
+        display: none;
+    }
+    .android-echnology .android-echnology-box {
+        padding: 30px 0 0 0;
+    }
+    .java-development-banner {
+        height: 280px;
+    }
+    .services-box .react-native-box .contant-react .span {
+        margin-bottom: 38px;
+    }
+    .angular-contant h5::before {
+        left: 2%;
+    }
+    .angular-development-box .angular-contant p {
+        padding-top: 10px;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .gyspy-serives-box {
+        margin: 30px 0px;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box .costom-servies-box .costom-servies {
+        margin-bottom: 30px;
+    }
+    .costom-web .costom-web-box h4 {
+        padding: 30px 0 25px 0;
+        position: relative;
+    }
+    .costom-web .costom-web-box h4::before {
+        display: none;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box h4 {
+        padding: 30px 0 25px 0;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box h4::before {
+        display: none;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box .costom-servies-box {
+        margin-top: 30px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        width: 45%;
+    }
+    .iot-echnology h4::before {
+        display: none;
+    }
+    .android-echnology h4::before {
+        display: none;
+    }
+    section.Maintenance .img-box img {
+        width: 70%;
+    }
+    section.Maintenance {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        padding: 20px 0px;
+        background: #f8f8f8;
+    }
+    .android-echnology .net-banner-medal .net-banner-medal-serives .net-serives-box h5 {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+    .android-echnology .net-banner-medal .net-banner-medal-serives .net-serives-box p {
+        line-height: 21px;
+    }
+    .iphon-app .iphon-app-box .contant-box p {
+        text-align: justify !important;
+    }
+    p.card-text {
+        text-align: justify;
+    }
+    .how-we-prepare .how-we-prepare-box .services-box h5 {
+        text-align: center;
+    }
+    .features-box {
+        height: 230px;
+    }
+    .kind-of-apps .heading h2::before {
+        display: none;
+    }
+    .btn-hover {
+        font-size: 12px;
+    }
+    .item .item-box p {
+        font-size: 14px;
+        line-height: 26px;
+        text-align: justify;
+    }
+    .item .item-img-box {
+        margin-top: 0px;
+        padding: 30px 0;
+    }
+    .servies-box-img .img-box img {
+        width: 48%;
+    }
+    /********create by sunil*********/
+    header {
+        padding-bottom: 70px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 382px;
+    }
+    .digital-marketing p {
+        padding: 0 44px 0px 44px;
+    }
+    .digital-marketing {
+        height: 277px;
+    }
+    .fillup-box {}
+    .contact-outer {
+        height: 160px;
+    }
+    .address-box {
+        height: 820px;
+    }
+    .contact-outer {
+        padding: 26px 0px;
+    }
+    .btn-primary {
+        margin: 20px 0;
+    }
+    .how-we-prepare {
+        padding-bottom: 2px;
+        margin-top: 0px;
+    }
+    .wsmenu {
+        width: 100% !important;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .iphon-heading-box1 h4::before {
+        display: none;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box {
+        height: 305px;
+        padding: 20px 10px 20px 10px;
+    }
+    .android-echnology .net-banner-medal .net-banner-medal-serives .net-serives-box {
+        padding: 20px 10px 20px 10px;
+        height: 305px;
+    }
+    .iphon-app .iphon-app-box .link-box h5 {
+        padding: 0 10px !important;
+    }
+    .iPhone-services h5 {
+        margin-top: 15px;
+    }
+    .p-text-padding-top {
+        padding-top: 0px;
+    }
+    .servies {
+        padding: 0px 0;
+    }
+    .ourfeatures-outer h4::before {
+        display: none;
+    }
+    .ios-mobile-services h4::before {
+        display: none;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .contant-box p {
+        text-align: justify;
+    }
+    .ipaid-services .ipaid-services-box .ipaid-contan-box p {
+        text-align: justify;
+    }
+    .outer-website h4::before {
+        display: none;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        margin-top: 13px;
+        position: absolute;
+        width: 105%;
+        left: -16px;
+    }
+    .owl-theme .owl-controls .owl-buttons div {
+        margin: 25px;
+    }
+    .owl-theme .owl-controls .owl-buttons div {
+        width: 50px;
+        height: 50px;
+        line-height: 40px;
+        border-radius: 0;
+        background: transparent;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 75px;
+        height: 292px;
+        left: 134px;
+        width: 65% !important;
+    }
+    .ourservice .ourservice-box {
+        display: none;
+    }
+    .ourservice:before {
+        height: 540px;
+    }
+    .our-latest-work:before {
+        content: "";
+        height: 342px;
+        display: none;
+    }
+    .our-latest-work .item .our-latest-work-box-contant {
+        padding: 0px 0 0 0;
+        text-align: center;
+    }
+    .our-latest-work .item .our-latest-work-box-img-box .btn-box {
+        display: block !important;
+    }
+    .our-latest-work .item .our-latest-work-box-contant .btn-box {
+        display: block;
+        margin: 30px 0;
+    }
+    footer .footer-top .footer-top-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    footer .footer-top .footer-top-box .icon-list-box {
+        margin-top: 20px;
+        text-align: center !important;
+        float: none !important;
+    }
+    footer .footer-top {
+        background: #f5f7fa;
+        padding: 10px 0 22px 0;
+    }
+    .float-label-control select {
+        border-bottom: 1px solid #aaa;
+        background: #fff;
+    }
+    .ourservice:before {
+        display: none;
+    }
+    .home-banner .img-box .btn-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        margin-top: 30px;
+    }
+    .home-banner .home-banner-contant .our-latest-border {
+        margin: 0 auto;
+    }
+    .home-banner {
+        text-align: center;
+    }
+    .home-banner .home-banner-contant p {
+        font-size: 14px;
+        margin-top: 20px;
+        color: #454545;
+        padding: 0 20px;
+    }
+    .our-latest-work {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-technoloy {
+        padding-bottom: 0;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .footer-slider .client-slider-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-clients-kpis {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .blog {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .blog .blog-box .blog-contant-box .btn-box {
+        margin-top: 35px;
+        margin-left: 0px;
+    }
+    .blog .blog-box .blog-contant-box {
+        box-shadow: 1px 4px 12px 0px #e2e2e2;
+        height: 495px;
+    }
+    .company {
+        width: 100% !important;
+        left: 1% !important;
+        top: 100% !important;
+    }
+    .Our-Services {
+        width: 99% !important;
+        left: 0% !important;
+        top: 100% !important;
+    }
+    .Technology {
+        width: 98% !important;
+        left: 1% !important;
+        top: 100% !important;
+    }
+    .Industries {
+        width: 100% !important;
+        left: 0% !important;
+        top: 100% !important;
+    }
+    header .header-box .header-bottam .btn {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .ourservice {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .our-technoloy .contant-service .img-box {
+        padding: 20px 14px 15px 10px;
+    }
+    .your-project .form-project-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .card {
+        height: 600px;
+    }
+    .services-box .react-native-box .contant-react .span {
+        font-size: 12px;
+        padding: 1px 10px;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome .border-bottam {
+        display: none;
+    }
+    .why-choose-us .why-choose-us-box .contant-box-welcome {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome {
+        padding-top: 20px;
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .why-choose-us h4 {
+        font-size: 28px;
+        padding: 15px 0 0px 0;
+    }
+    .about-us .about-us-banner .about-us-img-box {
+        margin-top: 20px;
+    }
+    .home-banner .home-banner-contant h1 .span {
+        color: #000;
+        font-weight: 400;
+        font-size: 30px;
+    }
+    .home-banner .home-banner-contant h1 {
+        font-size: 30px;
+    }
+    .angular-contant h5:before {
+        display: none;
+    }
+    .angular-contant h5 {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box img {
+        width: 40%;
+    }
+    .read-more-btn {
+        position: absolute;
+        top: 100%;
+        left: 42%;
+    }
+    .mobile-defvelopment-services .services-contant .services-box h5 {
+        color: #000;
+        font-size: 14px;
+        margin-top: 16px;
+        line-height: 18px;
+    }
+    .Mobile-Application-services .contant-box h1 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .mobile-defvelopment-services h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .why-choose-our-mobile h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .your-project .form-project-box h3 {
+        font-size: 36px;
+        color: #000;
+    }
+    .why-choose-our-mobile .our-latest-border {
+        width: 10%;
+    }
+    .mobile-defvelopment-services .our-latest-border {
+        width: 10%;
+    }
+    .custom-softwere-develoment-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .custom-softwere-develoment-box .contant-box h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .custom-softwere-develoment-box .img-box img {
+        width: 60%;
+    }
+    .custom-softwere-develoment-box .contant-box .our-latest-border {
+        width: 10%;
+    }
+    .custom-softwere-wht-choose .heading-box h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .custom-softwere-our-services h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .custom-softwere-our-services .service-box h5 {
+        font-size: 14px;
+    }
+    .web-Application-service .service-box .enr-service-box img {
+        width: 70%;
+    }
+    .web-Application-service .service-box .enr-service-box {
+        height: 120px;
+        width: 120px;
+    }
+    .rummy-development .our-latest-border {
+        width: 10%;
+    }
+    .kpis-rummy .our-latest-border {
+        width: 10%;
+    }
+    .rummy-development h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .kpis-rummy h4 {
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .why-work-kpis .why-work-kpis-box p {
+        font-size: 14px;
+    }
+    .carwash .carwash_box {
+        text-align: center;
+    }
+    .carwash .carwash_box .img-box img {
+        width: 40%;
+    }
+    .carwash .carwash_box .contant_box {
+        padding: 0px 0;
+    }
+    .teen_paati .teen_paati_banner {
+        text-align: center;
+    }
+    .teen_paati .teen_paati_banner .contant_box .btn_box {
+        margin: 25px 0;
+    }
+    .teen_paati_platforms .feature_contant_box .contant_box .img_box {
+        margin: 0 auto;
+        border: 1px solid #fff;
+        padding: 6px;
+        text-align: center;
+        width: 70px;
+        height: 77px;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
+    .teen_patti_development .features-heading .our-latest-border-top {
+        background: #0C0F40;
+        width: 10%;
+        height: 5px;
+        margin-bottom: 15px !important;
+        margin: 0 auto;
+    }
+    .teen_patti_development {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .teen_paati_feature .features-heading .heading-box .heading-border-top .our-latest-border-top {
+        width: 10%;
+    }
+    .teen_paati_feature {
+        background: #F8F8FF;
+        padding: 20px 0;
+    }
+    .teen_paati_platforms {
+        background: #211F6C;
+        padding: 20px 0;
+    }
+    .teen_paati_platforms .features-heading .heading-box .heading-border-top .our-latest-border-top {
+        background: #fff;
+        width: 10%;
+        height: 5px;
+        margin-bottom: 15px !important;
+    }
+    .teen_paati .teen_paati_banner .img_box img {
+        width: 75%;
+    }
+    .teen_paati_platforms .feature_contant_box .img_box img {
+        width: 75%;
+    }
+    .teen_patti_text_contant .contant_box {
+        border: 1px solid #000;
+        border-radius: 20px;
+        padding: 15px;
+    }
+    .cab_booking {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .cab_cooking_features .cab_cooking_contant:before {
+        display: none;
+    }
+    .cab_cooking_features {
+        padding: 40px 0 50px 0;
+    }
+    .cab_cooking_features:before {
+        height: 100px;
+    }
+    .car_solutions_panels .car_solutions_contant .img_box img {
+        width: 50%;
+        margin-top: 40px;
+    }
+    .car_solutions_panels .car_solutions_contant {
+        text-align: center;
+    }
+    .casino_game {
+        text-align: center;
+    }
+    .casino_game_feature .feature_contant_box .img_box img {
+        width: 50px;
+    }
+    .casino_game_platforms .feature_contant_box .contant_box .img_box {
+        width: 70px;
+        height: 77px;
+        padding: 6px;
+    }
+    .casino_game_platforms .feature_contant_box .img_box img {
+        width: 70%;
+    }
+    .casino_game_platforms .feature_contant_box {
+        margin-top: 0px;
+    }
+    .teen_patti_text_contant {
+        text-align: center;
+    }
+    .casino_game .casino_game_banner .contant_box h1 {
+        font-size: 24px;
+    }
+    .teen_paati .teen_paati_banner .contant_box h1 {
+        font-size: 24px;
+    }
+    .pos_solution_Development .pos_solution_Development_contant .contant_box .img_box {
+        text-align: center;
+    }
+    .pos_benefits_section:before {
+        display: none;
+    }
+    .pos_benefits_section .pos_benefits_contant .benefits_img_box {
+        display: block;
+    }
+    .pos_silder_section .pos_silder_section_contant .carousel .carousel-control .glyphicon-chevron-right,
+    .carousel-control .icon-next {
+        right: -20px;
+    }
+    .pos_silder_section .pos_silder_section_contant .carousel .carousel-control .glyphicon-chevron-left,
+    .carousel-control .icon-prev {
+        left: -45px;
+    }
+}
+
+@media (max-width: 736px) {
+    .pull-leftwith {
+        width: 200px;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        height: 336px !important;
+    }
+    .kind-of-apps {
+        text-align: center;
+        padding-top: 10px;
+    }
+    .heading h2 {
+        font-size: 28px;
+    }
+    .heading h2::before {
+        top: 46px;
+    }
+    .kind-of-apps .heading h2::before {
+        left: 42%;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant h4 {
+        font-size: 16px;
+    }
+    .iPhone-services h4 {
+        font-size: 26px;
+        padding: 10px 0 0px 0;
+    }
+    .iPhone-services h4::before {
+        top: 63px;
+        left: 39%;
+    }
+    .iPhone-services .iPhone-services-box .services-box h5 {
+        font-size: 16px;
+        margin-top: 12px;
+    }
+    .iPhone-services .iPhone-services-box .services-box p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 19px 0;
+    }
+    /****************create by sunil********/
+    .case-studies-banner {
+        height: 237px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 369px;
+    }
+    .serives-android-app .caree-box {
+        height: 267px;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 75px;
+        height: 277px;
+        left: 134px;
+        width: 65% !important;
+    }
+}
+
+@media (max-width: 668px) {
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        width: 450px;
+        height: 450px;
+        left: 28%;
+        top: 20%;
+    }
+    .grocery-restaurant-managment .contant-box {
+        height: 210px;
+    }
+    .food-tabs-box .card .nav-tabs>li {
+        width: 49.5%;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        position: absolute;
+        width: 325px;
+        height: 325px;
+        left: 24%;
+        top: 23%;
+    }
+    .Customer-contant-text {
+        padding: 20px 31px;
+    }
+    .cannibis-banner .img-box img {
+        width: 100%;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 60px;
+        height: 350px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant h2 {
+        font-size: 36px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box h2 {
+        font-size: 36px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant:before {
+        height: 90px;
+    }
+    .pull-leftwith {
+        width: 170px;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        height: 303px !important;
+    }
+    .v-center {
+        width: 25%;
+    }
+    .icon-images {
+        padding: 9px 9px;
+    }
+    p.we-serve {
+        font-size: 16px;
+    }
+    .item .item-box p {
+        font-size: 14px;
+    }
+    .why-choose-us h4::before {
+        left: 38%;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .iphon-heading-box1 h4::before {
+        left: 37%;
+    }
+    .how-we-prepare h4::before {
+        left: 39%;
+    }
+    .ourfeatures-outer h4::before {
+        left: 40%;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 15px 0;
+    }
+    .item .item-box p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: justify;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 72px;
+        height: 251px;
+        left: 119px;
+        width: 64% !important;
+    }
+    .read-more-btn {
+        position: absolute;
+        top: 100%;
+        left: 39%;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        height: 289px !important;
+    }
+    .mobile-defvelopment-services .services-contant .services-box p {
+        font-size: 14px;
+    }
+    .mobile-defvelopment-services .services-contant .services-box {
+        height: 350px;
+    }
+    .icon-images {
+        padding: 7px 7px;
+    }
+    .item .item-box h4 .span {
+        font-size: 21px;
+    }
+    .java-development-banner {
+        height: 220px;
+    }
+    /***************create by sunil*****/
+    .case-studies-banner {
+        height: 197px;
+    }
+    .case-studies-banner .case-studies-banner-box {
+        padding: 25px 0 0 0;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        line-height: 23px;
+        font-size: 16px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 313px;
+    }
+    .serives-android-app .caree-box {
+        height: 197px;
+    }
+    .row.address2 {
+        padding: 30px 28px;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 72px;
+        height: 241px;
+        left: 115px;
+        width: 64% !important;
+    }
+    .nav-tabs>li>a {
+        padding: 12px 8px;
+    }
+}
+
+@media (max-width: 600px) {
+    .img--projects {
+        text-align: center;
+        position: relative;
+        top: 20px;
+    }
+    .img--projects img {
+        width: 54%;
+    }
+    /***************************************/
+    .our-latest-work .item1 .our-latest-work-box-img-box img {
+        width: 68%;
+    }
+    .our-latest-work .item3 .our-latest-work-box-img-box img {
+        width: 68%;
+    }
+    .our-latest-work .item4 .our-latest-work-box-img-box img {
+        width: 68%;
+    }
+    .our-latest-work .item2 .our-latest-work-box-img-box img {
+        width: 70%;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 50%;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 26%;
+        top: 20%;
+    }
+    .Boost-your-restaurant .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 50%;
+    }
+    .Boost-your-restaurant .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        left: 22%;
+    }
+    .Restaurant-management .icon-contant-box {
+        height: 120px;
+    }
+    .pricing-tab-ul li {
+        width: 31% !important;
+    }
+    td.default {
+        display: none !important;
+    }
+    td,
+    th {
+        width: 52%;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        left: 20%;
+        top: 18%;
+    }
+    .custom-food-delivery .contant-box {
+        margin-bottom: 30px;
+    }
+    .update-h4 {
+        font-size: 21px !important;
+        line-height: 28px !important;
+    }
+    .custom-food-delivery .Supercharge-contant-box {
+        margin-bottom: 20px;
+    }
+    .nav-ul {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .Customer-contant-text {
+        padding: 20px 35px;
+    }
+    .logistic-customer-reviews .left-contant .our-latest-border {
+        background-image: linear-gradient(to right, #df4b8e, #9538c8);
+        width: 7%;
+        height: 4px;
+        margin-bottom: 15px !important;
+    }
+    /*********uptade css***************/
+    .food-ordering .food-banner .contant .img-box img {
+        width: 100%;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 80px;
+        height: 350px;
+    }
+    .food-tabs-box .card .tab-content .logistic-box .img-box img {
+        width: 100%;
+    }
+    .web-and-eCommerce .eCommerce-box p {
+        text-align: justify;
+    }
+    .ecommerce-our-services p {
+        text-align: justify;
+    }
+    .logistic-slider .logistic-slider-box .contant-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .logistic-slider .logistic-slider-box .contant-box h4 {
+        text-align: center;
+    }
+    .logistic-customer-reviews {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .pull-leftwith {
+        width: 500px;
+    }
+    .logistic-customer-reviews .left-contant .contant-box .btn-box {
+        margin-top: 16px;
+    }
+    .logistic-banner .logistic-contant h1 {
+        line-height: 42px;
+    }
+    .full-width-600 {
+        width: 100%;
+    }
+    .custom-food-delivery {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .custom-food-delivery .img-box img {
+        width: 50%;
+    }
+    .custom-food-delivery .Supercharge-img-box img {
+        width: 50%;
+    }
+    .food-tabs-box .card .tab-content .img-box img {
+        width: 70%;
+    }
+    .food-tabs-box .card .tab-pane {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .food-tabs-box .card .tab-content .contant-box .btn-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .food-tabs-box .card .tab-content .contant-box {
+        margin-top: 40px;
+    }
+    .food-tabs-box .card .tab-content .contant-box h4 {
+        text-align: center;
+    }
+    .interested-in-launching {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    .interested-in-launching .contant-box h4 {
+        text-align: center;
+    }
+    .interested-in-launching .img-box img {
+        width: 50%;
+    }
+    .fadeIn-bottom {
+        top: 101%;
+    }
+    /*********uptade end css***************/
+    .span-right {
+        right: 18% !important;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        right: 25%;
+    }
+    .v-center {
+        width: 28%;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        width: 106%;
+    }
+    .iPhone-services .Maintenance-services-box .Maintenance-box {
+        height: 380px;
+    }
+    .icon-images {
+        padding: 5px 6px;
+    }
+    .develop-contant h4 {
+        font-size: 16px;
+    }
+    .develop-contant p {
+        font-size: 12px;
+    }
+    .contatn-div h4 {
+        font-size: 16px;
+    }
+    .contatn-box p {
+        font-size: 12px;
+    }
+    .web-contant h4 {
+        font-size: 16px;
+    }
+    .web-contant p {
+        font-size: 12px;
+    }
+    .contatn-div p {
+        color: #fff;
+        font-size: 12px;
+    }
+    .item .item-box p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    p.we-serve {
+        font-size: 16px;
+        padding-bottom: 16px;
+    }
+    .bottomborder {
+        margin-bottom: 16px;
+    }
+    .tech-border {
+        margin-bottom: 40px;
+    }
+    p.cleint-pcontant {
+        font-size: 14px;
+    }
+    .testimonial .description {
+        font-size: 12px;
+    }
+    footer .footer-bg .footer-box .footer-contant-box .footer-manu-box li a {
+        color: #000;
+        font-size: 14px;
+    }
+    footer .footer-bg .footer-box .footer-contant-box .footer-manu-box li {
+        padding: 5px 0;
+    }
+    footer .footer-bg .footer-box .footer-contant-box .footer-manu-box p {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .item .item-box h4 {
+        font-size: 23px;
+    }
+    .item .item-box h4 .span {
+        font-size: 23px;
+    }
+    .item .item-img-box img {
+        width: 100%;
+    }
+    .navbar-brand>img {
+        width: 35%;
+    }
+    .screen_wrap img {
+        width: 311px;
+        margin: 0 auto;
+    }
+    .screen_wrap {
+        width: 71%;
+        margin: 0 auto;
+    }
+    .iphon-app .iphon-app-box .services-box h4::before {
+        top: 82px;
+        left: 37%;
+    }
+    .blockchain-banner-medal-box .blockchain-contant h3 {
+        color: #FFF;
+        font-size: 36px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 10px 0;
+    }
+    /************create by sunil**********/
+    .casestudy-btn a img {
+        width: 45%;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 293px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 65%;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 70px;
+        height: 223px;
+        left: 108px;
+        width: 64% !important;
+    }
+    .custom-softwere-our-services .service-box {
+        padding: 33px 10px;
+    }
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:focus,
+    .nav-tabs>li.active>a:hover {
+        font-size: 12px;
+    }
+    .nav-tabs>li>a {
+        font-size: 12px;
+        padding: 12px 5px;
+    }
+    .flashwas-tabs-box .card .nav-tabs>li {
+        width: 29%;
+        text-align: center;
+        border-bottom: none;
+        margin: 0 4px;
+        float: none;
+    }
+    .flashwas-tabs-box .card .nav-tabs {
+        padding: 10px 5px;
+    }
+    .flashwas-tabs-box .card .nav>li>a {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 568px) {
+    .modal-fullscreen .modal-title {
+        font-size: 21px;
+        text-align: center;
+        color: #fff;
+    }
+    .modal-fullscreen .modal-body {
+        padding: 20px 20px;
+        text-align: center;
+    }
+    .pull-leftwith {
+        width: 430px;
+    }
+    .modal-box {
+        width: 70%;
+    }
+    .services-box .react-native-box .contant-react .span {
+        margin-bottom: 70px;
+    }
+    .full-width {
+        width: 100%;
+    }
+    .icon-images {
+        padding: 0px 0px;
+        overflow: hidden;
+    }
+    .AI-develop {
+        margin-left: 20px;
+        margin-right: 0;
+    }
+    .test-develop {
+        margin-left: 20px;
+        margin-right: 0;
+    }
+    .Operating-develop {
+        margin-left: 20px;
+        margin-right: 0;
+    }
+    .weeb-technology-develop {
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .Game-develop1 {
+        margin-right: 0;
+        margin-left: 20px;
+    }
+    header .header-box .header-top .header-right-box li {
+        padding: 0 5px;
+    }
+    header .header-box .header-top h4 {
+        font-size: 10px;
+    }
+    .navbar-brand>img {
+        width: 40%;
+    }
+    .web-contant {
+        width: 76% !important;
+    }
+    .web-design {
+        width: 21%;
+    }
+    .about-us .about-us-banner .about-us-box h1 {
+        color: #000;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .about-us .about-us-banner .about-us-box p {
+        padding-bottom: 20px;
+        font-size: 18px;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome p {
+        margin-bottom: 20px;
+        font-size: 14px;
+        color: #000;
+    }
+    .why-choose-us .why-choose-us-box .contant-box-welcome p {
+        margin-bottom: 25px;
+        font-size: 14px;
+        color: #000;
+    }
+    .why-choose-us .why-choose-us-box .welcome-img-box {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome h4 {
+        padding-top: 0px;
+    }
+    .why-choose-us h4::before {
+        left: 36%;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant {
+        width: 86%;
+        float: right;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant h4 {
+        font-size: 16px;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-img {
+        float: left;
+        width: 12%;
+    }
+    .java-development-banner {
+        height: 205px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 8px 0;
+    }
+    .item .item-box {
+        padding: 0 72px;
+        padding-top: 30px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .item .item-img-box .img-box {
+        padding-top: 15px;
+    }
+    /*****************create by sunil********/
+    .case-studies-banner {
+        height: 177px;
+    }
+    .case-studies-banner .case-studies-banner-box h2 {
+        font-size: 46px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 280px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        line-height: 50px;
+        font-size: 26px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 544px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 78%;
+    }
+    .casestudy-btn a img {
+        width: 49%;
+    }
+    .weare-contant h4 {
+        font-size: 22px;
+    }
+    .filldata-form h2 {
+        font-size: 22px;
+    }
+    .row.address2 {
+        padding: 30px 16px;
+    }
+    .row.form-outer {
+        padding: 0px 40px 50px 40px;
+    }
+    .serives-android-app .caree-box {
+        height: 177px;
+    }
+    .item .item-box p {
+        font-size: 14px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 83px;
+        height: 214px;
+        left: 104px;
+        width: 64% !important;
+    }
+    .company {
+        width: 100% !important;
+        left: 1% !important;
+        top: 100% !important;
+    }
+    .mobile-defvelopment-services .services-contant .services-box p {
+        line-height: 25px;
+        text-align: center;
+    }
+    .mobile-defvelopment-services .services-contant .services-box {
+        background: #FFF;
+        text-align: center;
+        padding: 37px 32px 0 32px;
+        height: 285px;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 533px) {
+    .grocery-driver-app .icon-contant-box .contant-box strong {
+        font-size: 16px;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 27%;
+        top: 20%;
+        width: 400px;
+        height: 400px;
+    }
+    .food-tabs-box .card .nav>li>a {
+        position: relative;
+        display: block;
+        padding: 10px 0px;
+    }
+    .v-center {
+        width: 32%;
+    }
+    .full-width1 {
+        width: 100%;
+    }
+    header .header-box .header-top .header-right-box li a .fab {
+        font-size: 16px;
+    }
+    .item .item-box h4 .span {
+        font-size: 21px;
+    }
+    .web-design {
+        width: 13%;
+    }
+    .web-design {
+        margin-bottom: 33px;
+    }
+    #ourservice {
+        height: 1115px !important;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box h4 {
+        font-size: 21px;
+    }
+    .iphon-app .iphon-app-box .services-box h4 {
+        font-size: 21px;
+    }
+    .iPhone-services h4 {
+        font-size: 21px;
+        padding: 10px 0 0px 0;
+    }
+    .iot-echnology h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .iPhone-services h4::before {
+        top: 50px;
+        left: 37%;
+    }
+    .ios-mobile-services h4 {
+        line-height: 30px;
+        color: #000;
+        font-size: 21px;
+    }
+    .ios-mobile-services h4::before {
+        top: 67px;
+        left: 35%;
+    }
+    .how-we-prepare h4 {
+        font-size: 21px;
+    }
+    .how-we-prepare h4::before {
+        top: 62px;
+        left: 35%;
+    }
+    .android-echnology h4 {
+        font-size: 21px;
+        padding: 30px 0 25px 0;
+    }
+    .android-echnology h4::before {
+        top: 80px;
+        left: 36%;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .iphon-heading-box1 h4 {
+        font-size: 21px;
+    }
+    .iphon-app .iphon-app-box .services-box h4::before {
+        top: 70px;
+        left: 37%;
+    }
+    .outer-website h4 {
+        font-size: 21px;
+    }
+    .angular-development-box .angular-contant-right img {
+        width: 90%;
+    }
+    .costom-web .costom-web-box h4 {
+        font-size: 21px;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box h4 {
+        font-size: 21px;
+    }
+    .blockchain-banner-medal-box .blockchain-contant h3 {
+        color: #FFF;
+        font-size: 28px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 5px 0;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box {
+        height: 340px;
+    }
+    .owl-theme .owl-controls .owl-buttons div {
+        margin: 10px;
+    }
+    /*****create by sunil*******/
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 508px;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 83px;
+        height: 198px;
+        left: 96px;
+        width: 64% !important;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box img {
+        width: 60%;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box h3 {
+        font-size: 16px;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box h5 {
+        font-size: 14px;
+    }
+    .how-we-prepare .how-we-prepare-box .game-services-box img {
+        width: 40%;
+    }
+}
+
+@media (max-width: 480px) {
+    .single-testimonial-item {
+        height: 295px;
+    }
+    .Rummy-img-box img {
+        width: 85% !important;
+    }
+    .img--projects img {
+        width: 65%;
+    }
+    /**************************************/
+    .testimonial:after {
+        content: "";
+        border-left: 4px solid #fff;
+        position: absolute;
+        height: 4px;
+        width: 220px;
+        background: #fff;
+        left: 0px;
+        bottom: -14px;
+    }
+    .testimonial:before {
+        content: "";
+        border-left: 4px solid #fff;
+        position: absolute;
+        height: 208px;
+        width: 5px;
+        left: 0px;
+        bottom: -10px;
+    }
+    .grocery-banner .img-box img {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 25%;
+        top: 20%;
+        width: 400px;
+        height: 400px;
+    }
+    .Costomer-app-feature .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-Swag .portfolio-Swag-box .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-pyramid .portfolio-pyramid-box .img-box img {
+        width: 80%;
+    }
+    .why-kpis .contant-box .icon-contant-box {
+        height: 160px;
+    }
+    .Boost-your-restaurant .intro-banner-vdo-play-btn .ripple {
+        z-index: auto;
+        left: 33%;
+    }
+    .Restaurant-banner .img-box img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    .food-tabs-box .card .nav-tabs {
+        text-align: center;
+        border: 1px solid #df4b8e;
+        border-radius: 4px;
+        border: none;
+    }
+    .food-tabs-box .card .nav-tabs>li {
+        background: #e2e2e2;
+        border-bottom: 1px solid #e74d87;
+    }
+    .pricing-tab-to-tab {
+        border: none !important;
+    }
+    .food-tabs-box .card .nav-tabs>li:last-child {
+        border-bottom: none;
+    }
+    .food-tabs-box .card .nav>li>a {
+        position: relative;
+        display: block;
+        padding: 10px 0px;
+        background: transparent;
+    }
+    .td-tabs {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        position: absolute;
+        width: 325px;
+        height: 325px;
+        left: 32%;
+        top: 32%;
+    }
+    .update-img {
+        width: 55% !important;
+    }
+    .modal-fullscreen .modal-title {
+        font-size: 18px;
+        text-align: center;
+        color: #fff;
+    }
+    .modal-fullscreen .modal-dialog {
+        position: relative;
+        top: auto;
+        margin: 2%;
+    }
+    .cannibis-banner .img-box {
+        margin-top: 40px;
+    }
+    .where-infigic .heading-box h4 {
+        font-size: 21px;
+    }
+    .interested .interested-box .btn-box {
+        text-align: center;
+        padding-top: 18px;
+    }
+    .cannibis-banner .contant-box h1 {
+        color: #fff;
+        font-size: 21px;
+    }
+    .cannibis-banner {
+        padding: 4px 0;
+        text-align: center;
+    }
+    .food-tabs-box .heading-box h4 {
+        font-size: 21px;
+    }
+    /*********uptade css***************/
+    .whatsapp-chat .v-center {
+        width: 13%;
+        margin-right: 25px;
+    }
+    .food-ordering .food-banner .contant h1 {
+        color: #fff;
+        font-size: 18px;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 80px;
+        height: 315px;
+    }
+    .logistic-accoding .accoding-box h4 {
+        font-size: 18px;
+    }
+    .logistic-banner .img-box img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    .img-width90 img {
+        width: 70% !important;
+    }
+    .web-Application-service .service-box {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        margin-bottom: 30px;
+    }
+    .features-box {
+        height: 195px;
+    }
+    .web-and-eCommerce .img-box img {
+        width: 100%;
+    }
+    .food-tabs-box .card .nav-tabs>li {
+        width: 48%;
+        text-align: center;
+    }
+    .food-ordering-box .img-box img {
+        width: 100%;
+    }
+    .tab-content>.tab-pane .logo-box {
+        width: 40%;
+    }
+    .custom-food-delivery .img-box img {
+        width: 50%;
+    }
+    .custom-food-delivery .Supercharge-img-box img {
+        width: 50%;
+    }
+    .web-and-eCommerce {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+    }
+    /*********uptade end css***************/
+    .span-right {
+        right: 7% !important;
+        margin-top: -5px;
+    }
+    .v-center {
+        width: 35%;
+    }
+    .heading-border-top1 .our-latest-border-top {
+        width: 15%;
+    }
+    .heading-border-top .our-latest-border-top {
+        width: 15%;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        width: 107%;
+    }
+    .iPhone-services .Maintenance-services-box .Maintenance-box {
+        height: 280px;
+    }
+    .mobile-defvelopment-services .services-contant .services-box {
+        padding: 10px 10px 0 10px;
+    }
+    .full-width1-480 {
+        width: 100%;
+    }
+    .width1-480-50 {
+        width: 50%;
+    }
+    .banner-full-width {
+        width: 100%;
+    }
+    .item .item-box {
+        text-align: center;
+    }
+    footer .footer-bg .footer-slider {
+        margin: 0px 0;
+    }
+    footer .footer-bg .footer-border {
+        margin-top: 20px;
+    }
+    .navbar-brand>img {
+        width: 45%;
+    }
+    .screen_wrap {
+        margin-top: 30px;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome p {
+        line-height: 21px;
+    }
+    .advance-text {
+        padding: 16px 0px;
+    }
+    .why-choose-us h4::before {
+        left: 33%;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant {
+        width: 82%;
+        float: right;
+    }
+    .servies .img-box img {
+        width: 90%;
+        margin-top: 20px;
+    }
+    .servies-overview .img-box img {
+        width: 90%;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .img-box img {
+        width: 90%;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text h3 {
+        line-height: 50px;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .container-text h3 {
+        line-height: 50px;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .img-box img {
+        width: 80%;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .container-text h3 {
+        line-height: 50px;
+    }
+    .portfolio-banner .portfolio-banner-box {
+        text-align: center;
+        padding: 15px 0 0 0;
+    }
+    .contact100-form {
+        padding: 15px 15px 15px 15px;
+    }
+    .contact100-form-title {
+        padding-bottom: 0px;
+    }
+    .android-echnology h4 {
+        font-size: 21px;
+        padding: 30px 0 25px 0;
+    }
+    .android-echnology h4::before {
+        top: 80px;
+        left: 33%;
+    }
+    .java-development-banner {
+        height: 180px;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .iphon-heading-box1 h4::before {
+        left: 32%;
+    }
+    .services-box .react-native-box .contant-react .span {
+        margin-bottom: 50px;
+    }
+    section.Maintenance .img-box img {
+        width: 100%;
+    }
+    section.Maintenance .Maintenance-contant .heading21 h2 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+    section.Maintenance .Maintenance-contant p {
+        font-size: 14px;
+        padding-top: 0px !important;
+    }
+    .contatn-div {
+        width: 88%;
+        float: right;
+    }
+    .android-echnology .android-echnology-box .servies-box-img {
+        height: 260px;
+        margin-bottom: 0px;
+    }
+    .item .item-box {
+        padding: 0 25px;
+        /* padding-top: 30px; */
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .testimonial {
+        padding: 44px 10px 22px 10px;
+        height: 320px;
+    }
+    .testimonial .description:before {
+        font-size: 15px;
+        top: 0;
+        left: 0px;
+    }
+    /******create by sunil*******/
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 461px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 75%;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        font-size: 22px;
+    }
+    .case-studies-banner .case-studies-banner-box h2 {
+        font-size: 36px;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box h4::before {
+        left: 34%;
+    }
+    .outer-website h4::before {
+        left: 34%;
+    }
+    .ourfeatures-outer h4::before {
+        left: 36%;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box h4::before {
+        top: 80px;
+        left: 33%;
+    }
+    .costom-web .costom-web-box h4::before {
+        top: 80px;
+        left: 32%;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 14px 0;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box img {
+        width: 40%;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box {
+        height: 250px;
+    }
+    .contatn-box {
+        width: 88%;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box p {
+        font-size: 14px;
+    }
+    .iphon-app .iphon-app-box .contant-box h4 {
+        font-size: 16px;
+        line-height: 21px;
+        padding: 0;
+        font-weight: 500;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .ios-mobile-services .ios-mobile-services-box .contant-box .contant-box1 h5 {
+        color: #000;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 28px;
+        height: 180px;
+        left: 88px;
+        width: 64% !important;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant .span {
+        font-size: 21px;
+        position: absolute;
+        top: 13%;
+        right: 13%;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant h2 {
+        font-size: 36px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box h2 {
+        font-size: 36px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        font-size: 21px;
+        position: absolute;
+        top: 9%;
+        right: 8%;
+    }
+    .your-project .form-project-box h3 {
+        font-size: 30px;
+        color: #000;
+    }
+    .blog .blog-box h4 {
+        font-size: 21px;
+    }
+    .our-clients-kpis h4 {
+        font-size: 21px;
+        color: #000;
+    }
+    .footer-slider .client-slider-box .contant-box h4 {
+        font-size: 21px;
+        color: #000;
+    }
+    .our-sayclient h4 {
+        font-size: 21px;
+        color: #000;
+    }
+    .our-technoloy .contant-technoloy h4 {
+        font-size: 21px;
+    }
+    .our-latest-work .our-latest-work-box h4 {
+        font-size: 21px;
+    }
+    .home-banner .home-banner-contant h1 {
+        color: #e74d87;
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .our-technoloy .contant-service p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .our-technoloy .contant-service h4 {
+        font-size: 14px;
+        color: #000;
+    }
+    .home-banner .home-banner-contant p {
+        font-size: 14px;
+        margin-top: 20px;
+        padding-right: 0px;
+        color: #454545;
+    }
+    .home-banner .img-box {
+        margin-top: 0px;
+    }
+    .ourservice .ourservice-contant-box .border {
+        margin: 0 auto;
+    }
+    .ourservice .ourservice-contant-box h4 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .ourservice .ourservice-contant-box p {
+        color: #b8b8b8;
+        font-size: 14px;
+        text-align: center;
+    }
+    .our-technoloy .contant-service h4 {
+        font-size: 18px;
+        color: #000;
+    }
+    .our-technoloy .contant-service {
+        height: 260px;
+    }
+    .blog .blog-box .blog-contant-box {
+        height: 505px !important;
+    }
+    .our-clients-kpis .our-clients-kpis-box img {
+        width: 80%;
+    }
+    .our-technoloy .btn-box1 {
+        margin-top: 0px !important;
+    }
+    .our-technoloy .contant-service .our-latest-border {
+        width: 10%;
+    }
+    .read-more-btn {
+        position: absolute;
+        top: 100%;
+        left: 35%;
+    }
+    .iot-echnology .iot-echnology-box .iot-img-box img {
+        width: 100%;
+    }
+    .custom-softwere-our-services .service-box {
+        height: 230px;
+    }
+    .custom-softwere-wht-choose .service-box .service-text p {
+        padding-left: 10px;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .nav>li {
+        position: relative;
+        display: block;
+    }
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:focus,
+    .nav-tabs>li.active>a:hover {
+        border: 3px solid #9538c8;
+        font-size: 16px;
+        border-radius: 0;
+    }
+    .tabs-left>li,
+    .tabs-right>li {
+        float: none;
+        margin-bottom: 0px;
+    }
+    .nav-tabs>li>a {
+        font-size: 16px;
+        padding: 12px 5px;
+    }
+    .tabs-right {
+        border-left: none;
+        margin-top: 0px;
+    }
+    .web-Application-tab .tab-box {
+        padding-top: 20px;
+        margin-bottom: 0px;
+    }
+    .Mobile-Application-services .contant-box h1 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .mobile-defvelopment-services h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .why-choose-our-mobile h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+}
+
+@media (max-width: 414px) {
+    .img--projects img {
+        width: 70%;
+    }
+    .Swag-box-content {
+        position: relative;
+        left: 0px;
+    }
+    .sealog-box-content {
+        position: relative;
+        left: 0px;
+        top: 20px;
+    }
+    .rummy-box-content {
+        position: relative;
+        left: 0px;
+        top: 20px;
+    }
+    .Pyramid-box-content {
+        position: relative;
+        left: 0px;
+        top: 20px;
+    }
+    .mac-area-clip {
+        position: relative;
+        height: 130vh;
+    }
+    /******************************************/
+    .grocery-driver-app .intro-banner-vdo-play-btn .Supercharge-img-box img {
+        width: 70%;
+    }
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 21%;
+        top: 20%;
+        width: 400px;
+        height: 400px;
+    }
+    .pricing-tab-ul {
+        width: 100%;
+        margin: 0 auto;
+        border: none !important;
+    }
+    .pricing-tab-ul li {
+        width: 100% !important;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        left: 29%;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        top: -2%;
+        right: 18%;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant h2 {
+        font-size: 28px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box h2 {
+        font-size: 28px;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 80px;
+        height: 280px;
+    }
+    .key-benefits h4 {
+        font-size: 18px;
+    }
+    .custom-softwere-develoment-box .contant-box h4 {
+        font-size: 18px;
+    }
+    .pull-leftwith {
+        width: 300px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant .span {
+        top: -2%;
+        right: 22%;
+    }
+    .span-right {
+        right: 14% !important;
+        margin-top: 0px;
+    }
+    .v-center {
+        width: 41%;
+    }
+    .modal-box {
+        width: 80%;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        width: 108%;
+    }
+    .web-Application-service h4 {
+        line-height: 28px;
+    }
+    .web-technolocies h4 {
+        font-size: 21px;
+        line-height: 34px;
+    }
+    .web-Application-tab .tab-box h4 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+    .full-width1-414 {
+        width: 100%;
+    }
+    .navbar-brand>img {
+        width: 50%;
+    }
+    .contatn-box {
+        width: 85%;
+    }
+    .contatn-box h4 {
+        margin: 0;
+        font-size: 16px;
+    }
+    .contatn-div {
+        width: 85%;
+        float: right;
+    }
+    .contatn-div h4 {
+        font-size: 16px;
+        margin: 0;
+    }
+    .our-exp {
+        height: 1818px;
+    }
+    #ourservice {
+        height: 1020px !important;
+    }
+    .why-choose-us h4::before {
+        left: 30%;
+    }
+    .iPhone-services .iPhone-services-box .services-box p {
+        margin-top: 0px;
+    }
+    .iphon-app .iphon-app-box .services-box h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .iphon-app .iphon-app-box .services-box h4::before {
+        top: 87px;
+        left: 30%;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box h4::before {
+        top: 60px;
+        left: 30%;
+    }
+    .iphon-app .iphon-app-box .contant-box h4 {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 0;
+    }
+    .iPhone-services h4::before {
+        top: 50px;
+        left: 30%;
+    }
+    .java-development-banner {
+        height: 156px;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        padding: 10px 0;
+    }
+    /**********create by sunil***********/
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 409px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        font-size: 20px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 70%;
+    }
+    .row.form-outer {
+        padding: 0px 15px 50px 15px;
+    }
+    .services-box .react-native-box .contant-react .span {
+        margin-bottom: 128px;
+    }
+    .angular-contant h5::before {
+        display: none;
+    }
+    .angular-contant h5 {
+        text-align: left;
+        line-height: 30px;
+    }
+    .rummy-game-features .img-box img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 375px) {
+    .bg-primary1 {
+        background: linear-gradient(to bottom, rgba(63, 186, 254, 1) 0, rgba(1, 241, 254, 1) 45%, #fff 55%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .bg-primary2 {
+        background: linear-gradient(to bottom, rgba(255, 115, 57, 1) 0, rgba(255, 185, 18, 1) 45%, #fff 55%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+        overflow: hidden;
+    }
+    .bg-primary3 {
+        background: linear-gradient(to bottom, rgba(255, 216, 53, 1) 0, rgba(255, 246, 163, 1) 45%, #fff 55%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+        overflow: hidden;
+    }
+    .bg-primary4 {
+        background: linear-gradient(to bottom, rgba(206, 32, 16, 1) 0, rgba(248, 119, 2, 1) 45%, #fff 55%, #fff 100%);
+        position: relative;
+        margin-left: -15px;
+        margin-right: -15px;
+        overflow: hidden;
+    }
+    /******************************************/
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 21%;
+        top: 20%;
+        width: 375px;
+        height: 375px;
+    }
+    .intro-banner-vdo-play-btn .ripple {
+        left: 32%;
+        width: 280px;
+        height: 280px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant .span {
+        top: -2%;
+        right: 12%;
+    }
+    .span-right {
+        right: 7% !important;
+        margin-top: 0px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        top: -2%;
+        right: 10%;
+    }
+    .food-ordering .food-banner .contant h1 {
+        color: #fff;
+        font-size: 16px;
+    }
+    .food-ordering .food-banner {
+        margin-bottom: 60px;
+        height: 280px;
+    }
+    .logistic-banner .logistic-contant h1 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .v-center {
+        width: 37%;
+    }
+    .android-echnology .android-echnology-box .servies-box-img {
+        height: 280px;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        width: 109%;
+    }
+    .costom-web .costom-web-box .costom-servies .costom-servies-box {
+        height: 285px;
+    }
+    .web-design {
+        width: 15%;
+    }
+    #ourservice {
+        height: 1075px;
+    }
+    .navbar-brand>img {
+        width: 55%;
+    }
+    .trans-box {
+        height: 180px;
+    }
+    .our-exp {
+        height: 2035px;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant {
+        width: 78%;
+        float: right;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .img-box img {
+        width: 100%;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .img-box img {
+        width: 100%;
+    }
+    .ios-mobile-services h5 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .how-we-prepare h4::before {
+        top: 62px;
+        left: 29%;
+    }
+    .ios-mobile-services h4::before {
+        top: 67px;
+        left: 30%;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box h4::before {
+        top: 80px;
+        left: 30%;
+    }
+    .iphon-app .iphon-app-box .services-box h4::before {
+        top: 87px;
+        left: 26%;
+    }
+    .iphon-app .iphon-app-box .link-box h5 {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .iPhone-services h4::before {
+        top: 80px;
+        left: 25%;
+    }
+    .iPhone-services h4 {
+        line-height: 30px;
+    }
+    .ios-mobile-services h4::before {
+        top: 80px;
+        left: 25%;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .iphon-heading-box1 h4::before {
+        left: 28%;
+    }
+    .outer-website h4::before {
+        left: 28%;
+    }
+    .angular-development-box .angular-contant-right img {
+        width: 100%;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .costom-web-our-responsive .costom-web-our-responsive-box h4::before {
+        top: 95px;
+        left: 28%;
+    }
+    .costom-web .costom-web-box h4 {
+        line-height: 30px;
+    }
+    .costom-web .costom-web-box h4::before {
+        top: 96px;
+        left: 28%;
+    }
+    .testimonial .description {
+        line-height: 18px;
+    }
+    /******create by sunil******/
+    .case-studies-banner .case-studies-banner-box h2 {
+        font-size: 38px;
+    }
+    .case-studies-banner .case-studies-banner-box h4 {
+        font-size: 18px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 364px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        font-size: 18px;
+    }
+    .digital-marketing h4 {
+        font-size: 17px;
+    }
+    .digital-marketing {
+        padding: 20px 0px 0 0;
+    }
+    .contact-outer {
+        height: 172px;
+    }
+    .serives-android-app .caree-box {
+        height: 150px;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 27px;
+        height: 137px;
+        left: 72px;
+        width: 62% !important;
+    }
+    .p-t-b {
+        padding: 30px 0;
+    }
+    .our-latest-work .item .our-latest-work-box-contant h6 {
+        font-size: 38px;
+    }
+    .our-technoloy .btn-box1 {
+        margin-top: 10px !important;
+    }
+    .owl-theme .owl-controls .owl-buttons div {
+        display: none;
+    }
+    .our-clients-kpis .our-clients-kpis-box img {
+        width: 100%;
+    }
+    .read-more-btn {
+        position: absolute;
+        top: 100%;
+        left: 30%;
+    }
+}
+
+@media (max-width: 360px) {
+    .grocery-driver-app .intro-banner-vdo-play-btn .ripple {
+        left: 27%;
+        top: 25%;
+        width: 325px;
+        height: 325px;
+    }
+    .where-infigic .contant-box {
+        height: 140px;
+    }
+    .logistic-banner .logistic-contant h1 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .v-center {
+        width: 42%;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 65%;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 27px;
+        height: 129px;
+        left: 68px;
+        width: 62% !important;
+    }
+    footer .footer-top .footer-top-box .icon-list-box .social-icon {
+        height: 50px;
+        line-height: 56px;
+        width: 50px;
+        font-size: 21px;
+    }
+    footer .footer-top .footer-top-box .icon-list-box .social-icon-twiter {
+        height: 50px;
+        line-height: 56px;
+        width: 50px;
+        font-size: 21px;
+    }
+    footer .footer-top .footer-top-box .icon-list-box .social-icon-in {
+        height: 50px;
+        line-height: 56px;
+        width: 50px;
+        font-size: 21px;
+    }
+    footer .footer-top .footer-top-box .icon-list-box .social-icon-lingding {
+        height: 50px;
+        line-height: 56px;
+        width: 50px;
+        font-size: 21px;
+    }
+    footer .footer-top .footer-top-box .icon-list-box .social-icon-whatsapp {
+        height: 50px;
+        line-height: 56px;
+        width: 50px;
+        font-size: 21px;
+    }
+    footer .footer-top .footer-top-box .icon-list-box .social-icon-skype {
+        height: 50px;
+        line-height: 56px;
+        width: 50px;
+        font-size: 21px;
+    }
+    footer .footer-top .footer-top-box .copy-text-box .copy-text {
+        color: #000;
+        font-size: 12px;
+        padding-top: 15px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant h2 {
+        font-size: 26px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant .span {
+        font-size: 21px;
+        position: absolute;
+        top: -8%;
+        right: 15%;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box h2 {
+        font-size: 26px;
+    }
+    .why-work-kpis .why-work-kpis-box .why-work-contant-three-box .span {
+        font-size: 21px;
+        position: absolute;
+        top: -8%;
+        right: 15%;
+    }
+    .our-technoloy .btn-box1 {
+        margin-top: 10px !important;
+    }
+    .your-project .form-project-box .span {
+        color: #eb4e85;
+        line-height: 40px;
+    }
+    .p-t-b {
+        padding: 28px 0;
+    }
+    .serives-android-app .caree-box {
+        height: 130px;
+    }
+}
+
+@media (max-width: 320px) {
+    .testimonial {
+        padding: 44px 0px 21px 0px;
+    }
+    .testimonial .testimonial-box p {
+        margin-top: 8px;
+    }
+    header .header-box .header-bottam .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        width: 109%;
+    }
+    .item .item-box {
+        padding: 0 0px;
+        /* padding-top: 30px; */
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .contatn-box {
+        width: 80%;
+    }
+    .contatn-div {
+        width: 80%;
+        float: right;
+    }
+    .trans-box {
+        height: 220px;
+    }
+    .our-exp {
+        height: 2375px;
+    }
+    .web-design {
+        width: 18%;
+    }
+    #ourservice {
+        height: 1060px !important;
+    }
+    .navbar-toggle {
+        padding: 9px 7px;
+    }
+    .navbar-brand>img {
+        width: 65%;
+    }
+    .kpis-slider h2 {
+        font-size: 28px;
+    }
+    footer .copyright .copyright-box .icon-list-box li a img {
+        width: 80%;
+    }
+    footer .copyright .copyright-box .icon-list-box li {
+        display: inline-block;
+        width: 15%;
+    }
+    .why-choose-us h4::before {
+        left: 24%;
+    }
+    .kind-of-apps .kind-of-apps-box .kind-servies .kind-servies-contant {
+        width: 74%;
+        float: right;
+    }
+    .portfolio-study .portfolio-study-rummy .portfolio-rummy-box .container-text h3 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .portfolio-study .portfolio-study-sealog .portfolio-sealog-box .container-text h3 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .portfolio-study .portfolio-study-zoop-food .portfolio-zoop-food-box .container-text h3 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box h4::before {
+        top: 80px;
+        left: 24%;
+    }
+    .android-echnology h4::before {
+        top: 80px;
+        left: 27%;
+    }
+    .java-development-banner {
+        height: 120px;
+    }
+    .serives-iphone-ipaid-app-page .iphon-app-box1 .iphon-heading-box1 h4::before {
+        left: 22%;
+    }
+    .blockchain-banner-medal-box .blockchain-serives .blockchain-serives-box {
+        width: 60%;
+    }
+    .angular-banner-medal .angular-banner-medal-serives .angular-serives-box {
+        height: 294px;
+    }
+    section.Maintenance .Maintenance-contant p {
+        padding-top: 20px !important;
+    }
+    /********create by sunil********/
+    .case-studies-banner {
+        height: 154px;
+    }
+    .case-studies-banner .case-studies-banner-box h2 {
+        font-size: 29px;
+    }
+    .case-studies-banner .case-studies-banner-box h4 {
+        font-size: 16px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box {
+        height: 313px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-title h2 {
+        font-size: 15px;
+        line-height: 34px;
+    }
+    .case-study-outer .case-study-outer-box .case-study-img-box .casestudy-btn {
+        top: 66%;
+    }
+    .filldata-form h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .contact-outer {
+        height: 192px;
+    }
+    .address-box {
+        height: 910px;
+    }
+    .home-banner .img-box .gif-img {
+        position: absolute;
+        top: 27px;
+        height: 114px;
+        left: 62px;
+        width: 61% !important;
+    }
+    .btn {
+        width: 133px;
+    }
+    .our-latest-work .item .our-latest-work-box-img-box .btn-box {
+        display: -webkit-box;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .why-work-kpis .why-work-kpis-box p {
+        font-size: 14px;
+    }
+    .why-work-kpis .why-work-kpis-box p {
+        color: #FFF;
+        line-height: 20px;
+        font-size: 14px;
+    }
+    section#wehire {
+        padding: 0px 0;
+    }
+    .row.address2 {
+        padding: 0px 16px;
+    }
+    section#addres-div {
+        margin-bottom: 40px;
+    }
+    footer .footer-top .footer-top-box .copy-text-box .copy-text {
+        font-size: 16px;
+    }
+    .megamenu>ul>li>a {
+        font-size: 16px !important;
+    }
+    .why-choose-us h4 {
+        color: #000;
+        font-size: 35px;
+        padding: 20px 0 10px 0;
+    }
+    .why-choose-us .why-choose-us-box .contant-box-welcome h3 {
+        text-align: center;
+    }
+    .why-choose-us .why-choose-us-box .contant-box-welcome {
+        text-align: center;
+    }
+    .welcome-to-kpis .welcome-to-kpis-box .contant-box-welcome h4 {
+        line-height: 30px;
+    }
+    .why-choose-us {
+        padding-bottom: 10px;
+    }
+    .iphon-app .iphon-app-box .iphon-heading-box p {
+        font-size: 18px;
+    }
+    .angular-development-box .angular-contant-right {
+        padding-top: 5px;
+        margin-bottom: 40px;
+    }
+    .how-we-prepare h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .how-we-prepare .how-we-prepare-box .services-box {
+        padding: 70px 20px;
+    }
+    section.Maintenance .Maintenance-contant .heading21 h2 {
+        line-height: 31px;
+        text-align: left;
+    }
+    section.Maintenance .Maintenance-contant p {
+        padding-top: 0px !important;
+        text-align: justify;
+    }
+    section.Maintenance .img-box {
+        margin-top: 10px;
+    }
+    .iPhone-services .Maintenance-services-box .Maintenance-box {
+        height: 395px;
+    }
+    .Maintenance-box p {
+        font-size: 14px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .iPhone-services .Maintenance-services-box {
+        margin: 50px 0;
+    }
+    .how-we-prepare .how-we-prepare-box {
+        margin: 2px 0;
+    }
+    .serives-android-app img {
+        margin-top: 5px;
+    }
+    .iphon-app .iphon-app-box .services-box p {
+        margin-top: 8px;
+    }
+    .item .item-img-box {
+        padding: 10px 0;
+    }
+    .read-more-btn {
+        position: absolute;
+        top: 100%;
+        left: 26%;
+    }
+}

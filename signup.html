@@ -1,0 +1,164 @@
+<html>
+<head>
+<style>
+:root
+{
+--mycolor:#fcc62a;
+--ltcolor:#054bbb;
+}
+#outer{
+min-height:100%;
+width:100%;
+margin:0px auto;
+}
+#top{
+min-height:600px;
+width:100%;
+background:url("images/t1.webp");
+background-size:100% 100%;
+background-attachment:fixed;
+animation:sonashu 2s infinite alternate;
+
+
+}
+#top:hover{
+animation-play-state:pause;
+}
+
+#header{
+height:50px;
+width:1200px;
+background:rgba(0,0,0,.5);
+border-bottom:1px solid black;
+text-align:center;
+font-size:25px;
+}
+
+
+
+
+#left{
+min-height:500px;
+width:700px;
+//background:red;
+float:left;
+color:white;
+padding-top:200px;
+box-sizing:border-box;
+
+}
+#right{
+min-height:450px;
+width:420px;
+background:rgba(255,255,255,.5);
+float:left;    
+margin:12px 25px;
+padding:20px;
+box-sizing:border-box;
+font-size:18px;
+font-weight:bold;
+color:white;
+
+
+}
+.txt{
+height:45px;
+width:100%;
+border-radius:4px;
+margin-bottom:5px;
+padding-left:20px;
+box-sizing:border-box;
+border:none;
+
+
+
+}
+.txta{
+height:45px;
+width:100%;
+border-radius:4px;
+margin-bottom:5px;
+padding-left:20px;
+box-sizing:border-box;
+border:none;
+box-shadow:4px,2px,4px,black;
+
+
+
+}
+.btn{
+background:var(--mycolor);
+height:45px;
+width:100%;
+color:white;
+border:none;
+font-size:25px;
+margin-top:10px;
+}
+.btn:hover{
+background:black;
+color:white;
+
+}
+
+}
+@keyframes sonashu{
+0%{
+background:url("img/abc.jpg");
+background-size:cover;
+}
+50%{background:url("img/a1.jpg");
+background-size:cover;
+}
+100%{
+background:url("img/h.jpg");
+background-size:cover;
+}
+
+
+
+
+}
+</style>
+</head>
+<body>
+<div id="outer">
+<div id="top">
+
+<div id="header1">
+<div id="left">
+<div style="font-size:45px;text-align:center;">Welcome to<b style="color:var(--mycolor);">Sonashu Tech</b></div>
+<div style="font-size:24px;padding:0px 140px;text-align:center;">Welcome to Ashusona Tech jkleadlkwjef;lmz,nwjnfjkzllijhfiowutowpuejlijlzvkjn</div>
+
+<div style="height:45px;width:125px;margin-top:text-align:center;line-height:45px;
+margin-top:10px;margin-left:320px;font-size:25px;border-radius:50px;text-align:center;" class="btn">Join Up</div>
+</div>
+<div id="right">
+<form method="POST" name="google-sheet">
+<h2 style="text-align:center;">REGISTER FORM</h2>
+Name</br><input  class="txt" type="text" name="Name" required placeholder="Enter Name.."/><br>
+Email</br><input class="txt" type="email" name="Email"  required placeholder="Enter Name.."/><br>
+Password</br><input class="txt" type="password" name="Password"  required placeholder="Enter Password.."/><br>
+Mobile</br><input class="txt" type="number" name="Mobile"  required placeholder="Enter Name.."/><br>
+Message</br><textarea class="txta" type="number" name="Message"  name="Submit" required placeholder="Enter Name.."></textarea><br>
+</br><input type="submit" class="btn" value="save"></textarea><br>
+</form>
+</div>
+</div>
+</div>
+
+</center>
+<script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbxLzvFILRGESeEKeHcNhr2CBmRTPvrsxTy4n7q05QhOZermlqYJPiyY5nMtzZ-TghDJ/exec'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+.hero-bkg-animated {
+    background: white url(../img/language_1.png) repeat 0 0;
+    max-width: 1500px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    height: 98px;
+    box-sizing: border-box;
+    -webkit-animation: bg_mov_hz 20s linear infinite;
+    background-repeat: repeat-x;
+}
+
+@-webkit-keyframes bg_mov_hz {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -400px 0;
+    }
+}
+
+#scroll_img_bg_h2 .hero-bkg-animated {
+    background: white url(../img/language_2.png) repeat 0 0;
+    -webkit-animation: bg_mov_hz_r 20s linear infinite;
+}
+
+@-webkit-keyframes bg_mov_hz_r {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 400px 0;
+    }
+}
+
+#scroll_img_bg_h3 .hero-bkg-animated {
+    background: white url(../img/language_3.png) repeat 0 0;
+}
+
+#scroll_img_bg_h4 .hero-bkg-animated {
+    background: white url(../img/language_4.png) repeat 0 0;
+    -webkit-animation: bg_mov_hz_r 20s linear infinite;
+}
+
+#scroll_img_bg_h5 .hero-bkg-animated {
+    background: white url(../img/language_5.png) repeat 0 0;
+}

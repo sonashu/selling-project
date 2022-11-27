@@ -1,0 +1,56 @@
+<html>
+<head>
+<link href="css/bootstrap.css" rel="stylesheet"/>
+<link href="all/bootstrap.css" rel="stylesheet"/>
+<script src="js/bootstrap.bundle.js"></script>
+</head>
+<body>
+<!--start modal -->
+<b class="btn btn-outline-info pt-4" data-bs-toggle="modal" data-bs-target="#box">Feedback</b>
+
+<!-- Modal -->
+<div class="modal fade" id="box" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+	<form method="POST" name="google-sheet">
+	<div class="modal-body px-4">
+	<b class="text-danger float-end" data-bs-dismiss="modal"><i class="fa-solid fa-circle-xmark">
+	</i></b>
+      <p class="text-center fs-3">Your Valuable <b class="text-warning">Feedback</b>
+	  <p>We appriciate to your valuable feedback and we are always focused on it .</p>
+	  <span class="fs-3"> Add Your Feedback</span></br>
+	 Your Name :<br/>
+	 <div class="input-group">
+	 <input type="text" placeholder="Enter Your Name..."  name="Name" class="form-control"/> 
+	 </div>
+	 You're From :<br/>
+	 <div class="input-group">
+	 <input type="text" placeholder="Enter Your College..." name="Collage" class="form-control"/> 
+	 </div><br/>
+	 Your feedback :<br/>
+	 <div class="input-group mt-3">
+	 <textarea type="text" placeholder="Your valuable feedback" name="Feedback"></textarea>
+	 </div>
+	 Your Image :<br/>
+	 <input type="file" name="File"/>
+	 <div>
+	 <input type="submit" value="SEND FEEDBACK" name="submit" class="btn btn-outline-warning mt-3"/></div>
+      </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!--end modal -->
+<script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbzZBH4xhCe5BNblQwubkaVcgOxEDzfOoyA6FIj43NoRpIFtr0DZ_xmkBfGHf_ylzQpa/exec'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
+</body>
+</html>
