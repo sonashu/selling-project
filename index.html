@@ -22,16 +22,16 @@
 .btn1
 {
 min-height:50px;
-width:70px;
-background:#faaa3c;
-z-index: 1;
+width:80px;
+background:#7bc405;
+z-index: 10;
 text-align:center;
 border-radius:0px 50px 50px 0px;
 position:fixed;
 top:50px;
 left:0px;
 padding:2px;
-color:black;
+color:white;
 }
 /*feedback---*/
 #insta{
@@ -159,6 +159,53 @@ transform:scale(1)rotate(45deg);
                 </div>
             </div>
 			
+			<!-- Button trigger modal -->
+<button type="button" class="btn btn1" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    <i class="fa-brands fa-facebook-messenger"></i>
+  </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"> SEND YOUR FEEDBACK</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+        
+            <div class="container bg-lighter pt-5">
+                <div class="row bg-white a">
+                <div class="col-sm-3 pt-5">
+                
+                <img src="images/t3.jpg " width="200px;" height="300PX" alt="gfjgfjghjg"/>
+                
+                </div>
+                <div class="col-sm-6 " style="padding-left: 150px;">
+                <form method="POST" name="google-sheet">
+              
+                <b>Your Name:</b></br>
+                <input type="Text" required placeholder="Enter Your Name" name="Name"></br>
+                <b>Your Contact:</b></br>
+                <input type="text" required placeholder="Enter Your Contact Number" name="MObile"/><br>
+                <b>Your Email:</b></br>
+                <input type="text" required placeholder="Enter Your Email*" name="Email"></br>
+                <b>Your Message:</b></br>
+                <textarea placeholder="Type Your Message Here*" required name="Message"></textarea></br></br>
+                <input type="submit" value="SEND MESSAGE" name="Submit" class="fw-bold"/>
+                </form>
+                
+                </div>
+                </div>
+                </div>
+            </div>
+        
+      </div>
+    </div>
+  </div>
+            <!--btne-->
+            </button>
+			
             <div class="row header">
                 <div class="col-sm-3 logo text-center mt-3 ">
                     <span class="fs-2">Desire<b class="colour" >Cart<i class="fa-solid fa-cart-shopping"></i></b></span>
@@ -239,50 +286,7 @@ transform:scale(1)rotate(45deg);
                           </div>
                         </div>
                       </nav>
-					  <!--btn side-->
-			<button type="button" class="btn btn1" data-bs-toggle="modal" data-bs-target="#exampleModal">
-    <i class="fa-brands fa-facebook-messenger"></i>
-  </button>
-  
-  <!-- Modal -->
-  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel"> SEND YOUR FEEDBACK</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-        
-            <div class="container bg-lighter pt-5">
-                <div class="row bg-white a">
-                <div class="col-sm-3 pt-5">
-                
-                <img src="images/t1.jpg " width="200px;" height="300PX" alt="gfjgfjghjg"/>
-                
-                </div>
-                <div class="col-sm-6 " style="padding-left: 150px;">
-                <form>
-              
-                <b>Name:</b></br>
-                <input type="Text" required placeholder="Enter Your Name"></br>
-                <b>Contact:</b></br>
-                <input type="text" required placeholder="Enter Your Contact Number"/><br>
-                <b>Email:</b></br>
-                <input type="text" required placeholder="Enter Your Email*"></br>
-                <b>Message:</b></br>
-                <textarea placeholder="Type Your Message Here*" required></textarea></br></br>
-                <input type="submit" value="SEND MESSAGE" class="fw-bold"/>
-                </form>
-                
-                </div>
-                </div>
-                </div>
-            </div>
-        
-      </div>
-    </div>
-  </div>
+					  
 			<!--endbtn side-->
 			<!--side modalstart-->
 			<div class="whatsapp-chat ">
@@ -449,7 +453,7 @@ transform:scale(1)rotate(45deg);
               </div>
           </div>
        </div>
-       <div class="col-sm-3">
+       <div class="col-sm-3" data-aos="slide-up">
         <div class="card bg-light">
           <img src="images/wt1.jpeg" class="img-card-top"/>
             <div class="card-body">
@@ -471,7 +475,7 @@ transform:scale(1)rotate(45deg);
             </div>
         </div>
      </div>
-     <div class="col-sm-3">
+     <div class="col-sm-3" data-aos="slide-up">
       <div class="card bg-light">
           <img src="images/kk5.jpeg" class="img-card-top"/>
           <div class="card-body">
@@ -493,7 +497,7 @@ transform:scale(1)rotate(45deg);
           </div>
       </div>
    </div>
-   <div class="col-sm-3">
+   <div class="col-sm-3" data-aos="slide-up">
     <div class="card bg-light">
         <img src="images/WIG.jpg" class="img-card-top"/>
         <div class="card-body">
@@ -515,7 +519,7 @@ transform:scale(1)rotate(45deg);
         </div>
     </div>
  </div>
- <div class="col-sm-3">
+ <div class="col-sm-3" data-aos="slide-up">
   <div class="card bg-light">
       <img src="images/m5.jpg"  class="img-card-top"/>
       <div class="card-body">
