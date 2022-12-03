@@ -1,6 +1,6 @@
 <html>
     <head>
-	<link href="images/bigsell.jfif" rel="icon/>
+	<link href="images/bigsell.jfif" rel="icon"/>
 	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <link rel="stylesheet" href="css/all.css">
 <link rel="stylesheet" href="css/bootstrap.css">
@@ -169,14 +169,14 @@ transform:scale(1)rotate(45deg);
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel"> SEND YOUR FEEDBACK</h5>
+          <h5 class="modal-title" id="exampleModalLabel"> SEND YOUR CONTACT</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
         
-            <div class="container bg-lighter pt-5">
+            <div class="container bg-lighter pt-2">
                 <div class="row bg-white a">
-                <div class="col-sm-3 pt-5">
+                <div class="col-sm-3 pt-2">
                 
                 <img src="images/t3.jpg " width="200px;" height="300PX" alt="gfjgfjghjg"/>
                 
@@ -184,13 +184,13 @@ transform:scale(1)rotate(45deg);
                 <div class="col-sm-6 " style="padding-left: 150px;">
                 <form method="POST" name="google-sheet">
               
-                <b>Your Name:</b></br>
+                <b> Name:</b></br>
                 <input type="Text" required placeholder="Enter Your Name" name="Name"></br>
-                <b>Your Contact:</b></br>
-                <input type="text" required placeholder="Enter Your Contact Number" name="MObile"/><br>
-                <b>Your Email:</b></br>
+                <b> Contact:</b></br>
+                <input type="text" required placeholder="Enter Your Contact Number" name="Mobile"/><br>
+                <b> Email:</b></br>
                 <input type="text" required placeholder="Enter Your Email*" name="Email"></br>
-                <b>Your Message:</b></br>
+                <b> Message:</b></br>
                 <textarea placeholder="Type Your Message Here*" required name="Message"></textarea></br></br>
                 <input type="submit" value="SEND MESSAGE" name="Submit" class="fw-bold"/>
                 </form>
@@ -213,7 +213,7 @@ transform:scale(1)rotate(45deg);
                 
                 <div class="col-sm-7 mt-4 ">
                     <!--search bar modal-->
-                    <div class="input-group  " style="max-width:500px;margin-left:150px ;">
+                    <div class="input-group  " >
                        
                         <input type="text"  placeholder="SEARCH HERE" class=" form-control" />
                         <i class="input-group-text colour1 ">
@@ -672,6 +672,18 @@ s0.parentNode.insertBefore(s1,s0);
 	duration:1000
 	});
   </script>
-  <!----Aos Lib-->	
+  
+  <!----Aos Lib-->
+<script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbxCYkWo8REkBx4hFXOmXiMKc1HBu_ynNIna_sU_rfhueFvCmHf4zes4M7PeQV17oEH7TQ/exec'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>  
     </body>
 </html>
